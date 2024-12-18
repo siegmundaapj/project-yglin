@@ -73,9 +73,9 @@ def create_txt(card_data, filename=txt_file):
     with open(filename, "w", encoding="utf-8") as file:
             cards = card_data.get("data", [])
             for card in cards:
-                desc = card.get("desc", "")  
+                desc = card.get("desc")  
                 file.write(desc + "\n")  
-            print("txt file created.")
+    print("txt file created.")
 
 
 if __name__ == "__main__":
