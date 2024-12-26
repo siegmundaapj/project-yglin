@@ -1,0 +1,2 @@
+Acidic Downpour
+All EARTH monsters lose 500 ATK and gain 400 DEF.

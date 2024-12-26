@@ -1,0 +1,2 @@
+Token Stampede
+All Tokens in Attack Position gain 1000 ATK, also they cannot be destroyed by battle.

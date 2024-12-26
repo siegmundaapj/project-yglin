@@ -1,0 +1,2 @@
+Dragon Capture Jar
+Change all face-up Dragon-Type monsters on the field to Defense Position, also they cannot change their battle positions.

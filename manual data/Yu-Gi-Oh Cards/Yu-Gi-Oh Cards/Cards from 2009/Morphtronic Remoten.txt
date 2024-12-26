@@ -1,0 +1,3 @@
+Morphtronic Remoten
+●Attack Position: Once per turn: You can target 1 "Morphtronic" monster in your GY; banish that target, and if you do, add 1 "Morphtronic" monster with the same Level as the target from your Deck to your hand.
+●Defense Position: Once per turn: You can send 1 "Morphtronic" monster from your hand to the GY, and if you do, add 1 other "Morphtronic" monster with the same Level as that monster from your GY to your hand.

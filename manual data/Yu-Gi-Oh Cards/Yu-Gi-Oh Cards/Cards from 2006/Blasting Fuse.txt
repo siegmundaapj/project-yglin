@@ -1,0 +1,2 @@
+Blasting Fuse
+If all zones of this card's column are occupied, while this card is Set: Destroy all cards in this column.

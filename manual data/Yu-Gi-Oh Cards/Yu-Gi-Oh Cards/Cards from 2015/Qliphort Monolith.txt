@@ -1,0 +1,2 @@
+Qliphort Monolith
+You cannot Special Summon monsters, except "Qli" monsters. This effect cannot be negated. Once per turn, during the End Phase, if you Tribute Summoned this turn: You can draw a number of cards equal to the number of "Qli" monsters you Tributed for Tribute Summons this turn.

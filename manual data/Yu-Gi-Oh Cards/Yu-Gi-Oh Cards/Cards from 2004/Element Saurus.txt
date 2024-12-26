@@ -1,0 +1,4 @@
+Element Saurus
+Gains the following effect(s) while there is a monster(s) with the following Attribute(s) on the field.
+●FIRE: This card gains 500 ATK.
+●EARTH: Negate the effects of Effect Monsters destroyed by battle with this card.

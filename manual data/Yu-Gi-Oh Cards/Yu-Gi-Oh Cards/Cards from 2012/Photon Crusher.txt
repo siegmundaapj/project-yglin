@@ -1,0 +1,2 @@
+Photon Crusher
+If this card attacks, it is changed to Defense Position at the end of the Damage Step.

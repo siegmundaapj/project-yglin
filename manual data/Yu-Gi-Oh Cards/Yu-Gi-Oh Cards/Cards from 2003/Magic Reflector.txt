@@ -1,0 +1,2 @@
+Magic Reflector
+Select 1 Spell Card that remains face-up on the field and put 1 counter on it. If the selected card would be destroyed, the counter is removed instead.

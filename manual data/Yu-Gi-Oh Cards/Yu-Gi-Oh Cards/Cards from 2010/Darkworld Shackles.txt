@@ -1,0 +1,2 @@
+Darkworld Shackles
+The equipped monster cannot attack, also its ATK and DEF become 100. During each of your Standby Phases: Inflict 500 damage to the controller of the equipped monster.

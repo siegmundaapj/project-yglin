@@ -1,0 +1,2 @@
+Timidity
+Neither player can destroy Set Spell and Trap Cards on the field until your opponent's next End Phase.

@@ -1,0 +1,2 @@
+Shrink
+Target 1 face-up monster on the field; its original ATK becomes halved until the end of this turn.

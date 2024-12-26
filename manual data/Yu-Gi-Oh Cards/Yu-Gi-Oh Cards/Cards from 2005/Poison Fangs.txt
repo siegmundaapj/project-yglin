@@ -1,0 +1,2 @@
+Poison Fangs
+Each time a Beast-Type monster inflicts Battle Damage to your opponent, inflict 500 damage to your opponent.

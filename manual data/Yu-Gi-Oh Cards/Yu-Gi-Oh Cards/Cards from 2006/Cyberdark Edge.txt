@@ -1,0 +1,2 @@
+Cyberdark Edge
+If this card is Normal Summoned: Target 1 Level 3 or lower Dragon monster in your GY; equip that Dragon monster to this card. Gains ATK equal to the original ATK of the monster equipped to it by this effect. This card can attack directly. If it does using this effect, its ATK is halved during damage calculation only. If this card would be destroyed by battle, destroy that equipped monster, instead.

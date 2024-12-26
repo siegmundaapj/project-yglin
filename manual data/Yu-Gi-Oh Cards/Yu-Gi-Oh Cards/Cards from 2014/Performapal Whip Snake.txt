@@ -1,0 +1,2 @@
+Performapal Whip Snake
+Once per turn, during either player's Main Phase: You can target 1 face-up monster on the field; switch its current ATK and DEF until the end of this turn.

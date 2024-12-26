@@ -1,0 +1,2 @@
+Chow Len the Prophet
+Once per turn: You can declare either Spell or Trap, then target 1 Set card in your opponent's Spell & Trap Zone; look at that target, and if it is the declared card type, that card cannot be activated this turn.

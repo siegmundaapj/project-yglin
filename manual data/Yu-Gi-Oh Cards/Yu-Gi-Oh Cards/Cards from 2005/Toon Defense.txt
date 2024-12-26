@@ -1,0 +1,2 @@
+Toon Defense
+When an opponent's monster declares an attack targeting a face-up Level 4 or lower Toon monster you control: You can make the attack a direct attack instead.

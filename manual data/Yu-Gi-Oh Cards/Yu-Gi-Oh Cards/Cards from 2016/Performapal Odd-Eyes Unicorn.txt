@@ -1,0 +1,3 @@
+Performapal Odd-Eyes Unicorn
+Once, while this card is in your Pendulum Zone, when your "Odd-Eyes" monster declares an attack: You can target 1 other "Performapal" monster you control; that attacking monster gains ATK equal to the original ATK of the targeted monster on the field, until the end of the Battle Phase (even if this card leaves the field).
+When this card is Normal or Special Summoned: You can target 1 "Performapal" monster in your GY; gain LP equal to its ATK.

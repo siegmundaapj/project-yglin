@@ -1,0 +1,3 @@
+Blackwing Armed Wing
+1 "Blackwing" Tuner + 1+ non-Tuner monsters
+If this card attacks a Defense Position monster, it gains 500 ATK during the Damage Step only, also inflict piercing battle damage.

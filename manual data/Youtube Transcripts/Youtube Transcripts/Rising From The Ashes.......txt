@@ -1,0 +1,2171 @@
+# tactiq.io free youtube transcript
+# Rising From The Ashes......
+# https://www.youtube.com/watch/lW_bigc41gM
+
+00:00:00.040 Konami has a pretty bad track record of
+00:00:01.800 releasing TCG archetypes a lot of
+00:00:03.800 potential in their first wave and then
+00:00:06.000 ignoring them and giving them a bunch of
+00:00:07.279 garbage and the second wave and now
+00:00:09.240 Ashen is an apposition we recently got
+00:00:11.519 the second wave support from Legacy
+00:00:12.960 destruction and in our last video we
+00:00:14.679 looked at how wave 1 shaped the deck and
+00:00:17.080 what do would need in order to be a tier
+00:00:18.640 one potential so now that we have the
+00:00:20.800 support where does the deck stand do I
+00:00:22.760 think it has a chance of being good and
+00:00:25.359 how does it fair right now in Legacy
+00:00:27.039 destruction we got seven new cards two
+00:00:29.560 monsters two fusion monsters two spells
+00:00:32.159 and one trap guard it was a bit awkward
+00:00:34.640 for Ashen to Pivot into a fusion
+00:00:37.200 strategy cuz it's not something that you
+00:00:39.079 would have expected in the first wave
+00:00:41.440 and this immediately had me concerned it
+00:00:43.079 reminded me of something like testina
+00:00:45.039 where out of nowhere they've gotten this
+00:00:46.480 exceed monster and a bunch of other
+00:00:48.719 random gimmicks that really didn't seem
+00:00:50.160 to line up with the initial core values
+00:00:51.879 of the deck but there was some good news
+00:00:54.359 most important card released was
+00:00:56.079 extinguishing the Ashen it's important
+00:00:57.920 to note it has Ashen in the name and why
+00:00:59.559 does that matter well it can send one
+00:01:01.000 dark power from deck to the grave and
+00:01:02.359 then add a level five or higher power
+00:01:03.640 from graveyard to your hand this locks
+00:01:05.319 you into pyros but it doesn't matter if
+00:01:07.119 you're playing a pure astion deck you
+00:01:08.680 can bage from the grave to Fusion summon
+00:01:10.080 of power as well so that's where the
+00:01:11.200 fusion summoning comes in but this
+00:01:12.640 matters because this could send Vos from
+00:01:14.119 neck to grave and then add it the hand
+00:01:15.799 so this essentially acted as a
+00:01:17.119 reinforcement of the army for vados or
+00:01:19.640 otherwise you don't have access to it
+00:01:21.040 but this is also important not only
+00:01:22.439 because we got three more copies of Vos
+00:01:24.159 and make that look more consistent we
+00:01:25.759 also have a way to get Vos via Priestess
+00:01:28.360 cuz Priestess could search extinguished
+00:01:30.159 and then distinguish could get fados
+00:01:32.600 another important card the Ashen theme
+00:01:34.079 got is Shaman of the Ashen City like the
+00:01:36.320 other monsters from last set if Abid is
+00:01:38.320 on the field special discard from the
+00:01:40.000 hand then you can once per turn Target
+00:01:42.280 three pyros that are banishing your
+00:01:43.479 grave and put them back in your deck
+00:01:45.079 afterwards if an ashen is one of those
+00:01:46.360 monsters you get to add an obsid from
+00:01:48.560 deck to hand this filled a role that I
+00:01:50.439 mentioned in the last video now in the
+00:01:52.159 last video I talked about more ways to
+00:01:53.280 Vos and getting that deck more connected
+00:01:55.399 and extinguish did that and then also
+00:01:56.960 want something to recycle while also
+00:01:58.240 getting a little bit further and also
+00:01:59.880 potentially level four that way you can
+00:02:01.479 make Banshee and that is really what
+00:02:02.799 Shaman is now it's not anything
+00:02:04.320 brilliant cuz it's not going to be an
+00:02:05.520 immediate use on the first turn at least
+00:02:07.600 most of the time but it's good for
+00:02:09.280 recycling your plays getting you some
+00:02:10.840 advantage and also being level four to
+00:02:12.800 make Banshee plays and then the more I
+00:02:15.319 thought about it kept thinking about
+00:02:16.800 these fusion monsters and the new trap
+00:02:19.040 card that enables the fusion astion to
+00:02:21.000 endlessness it actually kind of lined up
+00:02:22.640 with what the deck tried to do decently
+00:02:24.360 think about Ashen in this way vados is
+00:02:26.800 your Supreme monster that is the card
+00:02:28.560 you want to be using over and over and
+00:02:30.440 over again deck has a decent ability to
+00:02:32.959 cycle it but what we want to be doing if
+00:02:35.680 every turn is trying to trigger our
+00:02:37.519 vados erupt their volcano and then reset
+00:02:40.280 up the Vos to do it again on the next
+00:02:42.040 turn all while progressing either
+00:02:44.760 abilities to ship damage a card
+00:02:46.680 advantage or suffocating their resources
+00:02:49.640 and Vos helps that in several ways
+00:02:51.040 because it gives you access to the Trap
+00:02:52.519 cards which will increase your card
+00:02:54.239 Advantage those trap cards will also
+00:02:55.640 help you push up damage as well as vados
+00:02:57.720 nuking their fields will hinder their
+00:02:59.519 game plan and take away their card
+00:03:01.080 resources and the fusion may not
+00:03:03.640 intuitively have helped that much but
+00:03:06.519 Ashen endlessness does advance this game
+00:03:08.239 plan of making vados easier to trigger
+00:03:09.840 on both players turns to Nuke the field
+00:03:11.640 because now you're not completely
+00:03:12.640 reliant on just hero of the asent to pop
+00:03:15.319 you also have more ability to keep
+00:03:16.680 setting up the vados because Embers of
+00:03:18.920 the Ashen let you add back a field spell
+00:03:20.879 this means you can recycle the obsidium
+00:03:22.720 without requiring your hero of the Ashen
+00:03:24.200 City to trigger this ensures that you
+00:03:25.879 could keep a cycle where every turn
+00:03:27.799 you're erupting your vados nuking the
+00:03:29.799 field and setting up another eruption
+00:03:31.519 for the next turn and once you get them
+00:03:33.040 in this spot this is where you want this
+00:03:34.319 deck to be another thing I was looking
+00:03:35.799 for with the last wave of support was a
+00:03:37.200 way to use King of the Ashen City in a
+00:03:39.200 meaningful manner before without links
+00:03:41.720 if you were locked into pyros summoning
+00:03:43.720 it didn't do much besides provide some
+00:03:45.239 extal damage and summoning Priestess
+00:03:47.400 from the deck when you could have
+00:03:48.080 already searched it really didn't
+00:03:49.640 accomplish too much but now the fusions
+00:03:52.120 actually fix this somewhat and while
+00:03:53.920 didn't click with me immediately because
+00:03:55.079 not a link monster giving a material of
+00:03:57.760 King that extra body does matter cuz it
+00:04:00.120 means you're not necessarily burning
+00:04:01.760 your resources to make Embers fun but
+00:04:04.879 with an efficient access to Embers there
+00:04:06.760 are now clear lines like King into
+00:04:08.840 Priestess into extinguished would get
+00:04:10.959 you back the vados then fuse the two on
+00:04:13.079 field for Embers add back the obsidium
+00:04:15.879 you now reset up your field spell and
+00:04:19.478 your vados there are other neat tools
+00:04:22.199 that Ashen got in this wave too that
+00:04:23.840 we've absolutely incorporated into our
+00:04:25.479 deck but those were the highlights that
+00:04:27.080 kind of brought the theme more and more
+00:04:28.560 together these three as cards are the
+00:04:30.360 highlight of LED for me the other action
+00:04:32.720 cards in the set are okay and we will
+00:04:34.560 incorporate them into our deck but these
+00:04:35.919 three are the ones that really push the
+00:04:37.360 game plan for this deck forward and I'm
+00:04:39.400 super happy to exist now with all that
+00:04:41.320 in mind it's time for me to cook up a
+00:04:43.800 brew for the deck take to locals if you
+00:04:46.160 enjoy seeing me take on challenges with
+00:04:47.759 new Decks that aren't super explored
+00:04:49.680 trying to figure out how to play them
+00:04:51.479 correctly and how to build them
+00:04:52.680 correctly then please like subscribe
+00:04:54.680 leave a comment Down Below on what you
+00:04:55.759 want to see me play next first things
+00:04:57.720 first you know what we got to do we have
+00:04:59.880 to grab our pack of supreme pros and if
+00:05:01.639 you want some for yourself go check out
+00:05:02.960 tsx1 comom and use the code potato 10 at
+00:05:06.520 10% off as adapting the deck from the
+00:05:08.520 last wave to this wave there a few
+00:05:10.280 things I still want to keep in mind this
+00:05:12.120 deck's kill power from scratch is still
+00:05:15.120 kind of shaky you can get there
+00:05:16.759 uninterrupted but it's unlikely those
+00:05:18.400 game States really happen so trying to
+00:05:20.319 build this a combo deck is inappropriate
+00:05:22.199 and I think that much hasn't changed I
+00:05:23.919 still think vados is the most insane
+00:05:26.080 card in this deck it is incredibly
+00:05:27.360 powerful and pairing vados with hand
+00:05:29.720 apps is very strong it's something that
+00:05:31.680 I really liked about my last Ashen deck
+00:05:33.639 so it's something I want to do right now
+00:05:35.520 and that means when I'm adding new cards
+00:05:36.759 I have to be careful not to take off too
+00:05:38.639 much non-engine because then I feel like
+00:05:40.479 the Ashen deck wouldn't be as powerful
+00:05:43.080 thinking about what to take out I played
+00:05:44.319 Aram and sakam before as a way to access
+00:05:47.000 my pyro monsters more readily but with
+00:05:49.479 new ways to search that are more
+00:05:50.880 efficient I think I can remove these
+00:05:52.520 from my deck I've lued to go down buy a
+00:05:54.759 single copy of bonfire in this deck
+00:05:56.560 because it's become increasingly evident
+00:05:58.319 it's not super importance for this card
+00:06:01.600 and with more and more ways to access
+00:06:03.280 your deck the Ashen theme is somewhat
+00:06:06.000 self-contained you don't need too many
+00:06:07.680 other Searchers otherwise you have a lot
+00:06:09.319 of redundancy and because everything is
+00:06:11.160 once per turn it's not super important
+00:06:13.199 to see a handful of Ashen cards in fact
+00:06:15.479 it argue it's just bad now given that I
+00:06:17.479 wanted to restrict the number of
+00:06:19.520 non-engine I was removing from the deck
+00:06:21.160 I did elect not to play spearhead of the
+00:06:23.240 Ashen City this is the only new Ashen
+00:06:25.240 card or only Ashen card in Period that
+00:06:27.599 is not in my deck I thought it was one
+00:06:29.319 of the so let's go over it real quick
+00:06:31.080 just like the other Ashen monsters if
+00:06:32.520 obsid on the field you can special
+00:06:33.759 summon it and then if your OPP controls
+00:06:35.440 a 2800 or more Attack Mode monster you
+00:06:37.639 contribute at the targeted card your
+00:06:38.680 opponent controls return to the hand so
+00:06:40.479 the idea here is it can recycle vados in
+00:06:42.599 some sort of way but there are other
+00:06:44.520 ways to do that and removing Vaders from
+00:06:46.280 the field will also mean you lose the
+00:06:47.720 ability to Nuke it during your
+00:06:48.919 opponent's turn or fuse with it as well
+00:06:51.360 as it'll remove the benefit of giving
+00:06:52.720 your opponent a monster that turns off
+00:06:54.160 effects like cashier effects or asado
+00:06:56.280 which are both relatively powerful in
+00:06:58.440 the current format thus I decided this
+00:07:00.680 Niche ability that really isn't super
+00:07:02.440 useful in that many game States also not
+00:07:04.240 being a starter or good in the long game
+00:07:06.240 Mentos is ultimately not worth playing
+00:07:08.160 now inline was trying to keep the deck
+00:07:09.240 both consistent and a high non-engine
+00:07:10.960 count I've also trimmed down the copy of
+00:07:13.120 King and hero down to one I already
+00:07:15.280 talked about how I wanted to cut these
+00:07:16.720 before but I feel like I need them more
+00:07:17.840 for the long game but I feel like Shaman
+00:07:19.840 fixes that with them being a one they'll
+00:07:21.479 still be acceptable because I can access
+00:07:23.120 them pretty freely with obsidium recycle
+00:07:25.039 them and get them back and not have a
+00:07:26.720 problem moving on to the extra deck not
+00:07:28.599 much changes the extra de was pretty
+00:07:30.039 flexible before and I've decided to take
+00:07:32.039 out some of the cards I was summoning
+00:07:33.680 less often and putting the fusion
+00:07:35.360 monsters in but maybe there's a world
+00:07:36.879 who play Super polymerization because of
+00:07:38.720 the Synergy with obsidium and Embers and
+00:07:40.759 you can play other fusions as well to
+00:07:42.080 complement that package however I feel
+00:07:43.479 like super poly in general isn't super
+00:07:45.360 good in this format so I'm not really
+00:07:46.960 focusing on that and yeah that's what my
+00:07:48.840 neck looks like I'm going to play locals
+00:07:50.319 with it and see how it goes and we can
+00:07:52.440 reflect any changes we want to make
+00:07:53.840 later and we're back at it again another
+00:07:55.759 week and we are back to locals still
+00:07:57.960 chasing down in first place seems to be
+00:08:00.199 harder than winning anything else for me
+00:08:01.720 right now but that's okay and uh with
+00:08:04.319 this new deck I'm feeling pretty good uh
+00:08:07.199 it got definite improvements from the
+00:08:09.039 last set and despite not being a tier
+00:08:12.280 one meta breaker deck uh it's it's not
+00:08:14.159 bad so I'm expecting good results all
+00:08:17.759 right so now we are finally into the
+00:08:19.639 tournament and I'm ready to go with this
+00:08:21.599 brand new Ashen deck curious to see how
+00:08:23.720 all these new improvements are going to
+00:08:25.039 pan out and we're round one we lose the
+00:08:28.639 die roll
+00:08:30.360 and I'm already wondering okay will this
+00:08:32.320 be different than our last tournament
+00:08:34.240 where we were pretty favorable in uh in
+00:08:36.519 our dice rolls but our opponent chooses
+00:08:38.719 let us start and that tells us one thing
+00:08:41.479 probably playing against tenpai and if
+00:08:43.279 we aren't they probably go second deck
+00:08:45.880 so got to keep that in mind as I map out
+00:08:48.040 my first turn I look at my hand here and
+00:08:49.800 I'm feeling pretty comfortable because I
+00:08:51.360 have access to vados and vados is the
+00:08:54.200 most important card against Tempi
+00:08:55.920 because the best card in Tempi is the
+00:08:57.920 field spell s against summoning making
+00:08:59.519 them both immune and getting their
+00:09:01.079 engine unlock so having access to that
+00:09:03.160 should cut them off of their ability to
+00:09:04.480 play as well as give us some removal and
+00:09:07.079 our followup and yeah Vos was already
+00:09:08.640 the best card of this deck and it only
+00:09:10.600 shines even brighter in this matchup so
+00:09:13.240 I'm going to be playing this with my
+00:09:14.640 normal strategy which is try to make
+00:09:16.720 sure I always have vados in hand to
+00:09:18.600 disrupt them but also to Nuke the field
+00:09:21.079 like in the volcano eruption triggering
+00:09:22.480 every turn uh so yeah that's going to be
+00:09:24.880 the goal try to trigger it as many times
+00:09:26.240 as possible always making sure I have
+00:09:27.880 one more to go for them now keep in mind
+00:09:30.320 with the new extinguished of the Ashen
+00:09:33.120 you have way more access to Vos so I
+00:09:35.240 wasn't too concerned but not having to
+00:09:36.959 rely on like a priestess going through
+00:09:38.560 is kind of nice cuz obviously that is
+00:09:40.360 someone vulnerable hand traps here I
+00:09:42.240 prosperity and I'm thinking what I grab
+00:09:44.079 because I already have H decent access
+00:09:46.120 to my ashon cards I have an Awakening in
+00:09:49.360 hand but I also have a Vos just cold so
+00:09:53.120 if I get the Ashen field spell uh it can
+00:09:56.600 get me two layers of vados even if the
+00:09:58.800 first one goes completely wrong
+00:10:00.720 specifically if like an ash is used on
+00:10:03.240 awakening ofos then it means I'll have
+00:10:05.160 the obsidian
+00:10:06.600 plus vados to get my bow rolling so yeah
+00:10:10.680 that's why I decided to get obsidium
+00:10:12.120 here now for a brief moment you saw me
+00:10:14.320 Ponder the Priestess but I realized that
+00:10:16.399 if I get Priestess that means I can't
+00:10:17.640 summon the Priestess off of the field
+00:10:19.680 spell which actually is a net negative
+00:10:21.720 towards my end goal uh even though it
+00:10:23.760 may seem like a positive in the
+00:10:25.120 immediate sense where I go the plus one
+00:10:26.959 it's really not in line with how I'm
+00:10:28.720 trying to play lay out my turn so
+00:10:30.720 important to have that future sight know
+00:10:32.040 what you're doing now I say that as I'm
+00:10:34.240 about to make a huge mistake here and
+00:10:36.000 that is just first time playing the deck
+00:10:37.320 in months uh and you'll see I just
+00:10:39.320 forget to get the Trap off vados nope I
+00:10:42.160 didn't draw both nope I'm not trying to
+00:10:43.680 Bluff that I have my traps I just forgot
+00:10:46.800 uh which almost defeats the entire
+00:10:48.079 purpose of it because the whole point is
+00:10:49.440 let you cycle
+00:10:51.399 into your your uh vados plus heal spell
+00:10:56.760 again with Embers but then also you'll
+00:10:58.920 still have access to the trap now which
+00:11:01.480 act as further Interruption and Trigger
+00:11:03.120 that volcano effect so here I'm playing
+00:11:05.600 out I'm thinking and I'm still getting
+00:11:06.560 used to the combos for the deck cuz
+00:11:08.320 again I haven't played with the new
+00:11:09.320 cards uh before hero here was rather
+00:11:15.040 unimpressive hello future Jesse here and
+00:11:17.720 I realized I made a mistake for the
+00:11:19.880 entirety of this replay portion I have
+00:11:23.399 called King hero and I've called hero
+00:11:27.279 Knight Knight is not even a card so yeah
+00:11:31.600 just keep that in mind as I mix up the
+00:11:33.079 names make sure you check on screen so
+00:11:34.880 you know what I'm referring to and
+00:11:36.760 apologies you know Yu-Gi-Oh players can
+00:11:38.639 read so
+00:11:42.200 yep um but it's clear here that I have
+00:11:44.880 the easy line that seems to be somewhat
+00:11:46.240 standard is hero for Priestess add
+00:11:48.880 extinguished extinguish add another
+00:11:50.120 vados fuse for Embers and then add back
+00:11:52.760 the obsidium so I'm just making sure
+00:11:54.240 that is truly the best course of action
+00:11:55.880 for myself because uh it really isn't
+00:11:58.200 that impressive of a play it it really
+00:11:59.440 just progresses the game only slightly
+00:12:01.480 which as far as a turn one play goes is
+00:12:03.959 just
+00:12:05.519 average but it's still better than what
+00:12:07.800 we had before especially if you were py
+00:12:09.079 locked not that I am in this specific
+00:12:10.480 moment uh now if you have extra
+00:12:12.120 extenders you do want to keep analyzing
+00:12:14.519 how can you press forward in these type
+00:12:15.800 of spots
+00:12:17.240 because especially if I'm not locked to
+00:12:19.279 this point before the extinguish at
+00:12:20.800 least uh I can make Link monsters like
+00:12:23.839 SP or princess and try make generic
+00:12:26.920 interrupts in that way uh or if I'm not
+00:12:29.279 can make uh Banshee Banshee let me add a
+00:12:31.760 pyro so I can add more followup more
+00:12:33.959 voses and then I can fuse that away cuz
+00:12:36.000 it's all pyro for Embers but here
+00:12:38.120 obviously my only other exender is
+00:12:39.680 Awakening and I'm using that as an
+00:12:41.639 interrupt to make sure that I can cut
+00:12:43.240 off the field spell so I just summon the
+00:12:45.760 Embers set up of my play and I'm feeling
+00:12:49.079 pretty okay I summon the Embers and
+00:12:50.760 defense here because he attacks with
+00:12:51.839 vados and I decide I want to kill the
+00:12:53.440 Vos I can just use the protection
+00:12:55.920 effects of Embers to kill whatever pyro
+00:12:57.680 battles and still would live I don't
+00:13:00.440 want to give him the easy ability to
+00:13:02.000 crash if he wants to and then that would
+00:13:04.399 force the nuke effect so this way like
+00:13:06.000 if he goes crash or attack the Embers
+00:13:08.760 and the battle face is gone I can say
+00:13:10.079 okay fine just kill the Embers uh and
+00:13:12.040 then I still have like my fuse effect
+00:13:13.680 online to trigger the the eruption but
+00:13:17.040 obviously I don't have it here he
+00:13:18.639 doesn't know that though maybe he thinks
+00:13:20.160 I just have it face down so I'm going to
+00:13:21.440 have to go with that um really only way
+00:13:25.079 of going about this and this mistaken
+00:13:27.480 moments and then just have to do better
+00:13:29.519 next time your Prosperity is nice cuz I
+00:13:31.399 get a good idea of what my opponent is
+00:13:32.920 up to now obviously I do expect tempai
+00:13:35.760 but you never know especially in locals
+00:13:38.279 when it's not as competitive as other
+00:13:40.279 tournaments so we get to see pretty
+00:13:41.920 easily there's just a bunch of Tempi
+00:13:43.120 cards there and we may get a decent idea
+00:13:45.399 of what our opponent is trying to do
+00:13:46.320 based off what they add adding the field
+00:13:48.000 spell though is pretty normal it means
+00:13:49.440 he may not have another one but even
+00:13:51.639 then that's not too much of an idea
+00:13:53.440 because it is likely that his field
+00:13:55.399 spell will die now I'm gonna let him
+00:13:56.759 activate the effective search here
+00:13:57.759 before I place on top of it because then
+00:14:00.519 you can't use it again and uh even if he
+00:14:02.399 has another one to play on top again I
+00:14:05.120 don't want him to be able to set up the
+00:14:08.240 the tempai engine for free for for
+00:14:09.839 obvious reasons obviously he plays the
+00:14:11.360 field spell on top normal someone's a
+00:14:13.000 padra like fine but this way he needs
+00:14:15.560 two more Tempi extenders to really get
+00:14:17.839 good use out of it and I do have the Vos
+00:14:19.600 as well so if he plays on the field spot
+00:14:20.720 I actually can deal with it it's not uh
+00:14:22.920 that easy but yeah I'm uh I'm in a good
+00:14:25.920 spot here now he has to wonder what is
+00:14:28.040 the best way to put through normal
+00:14:30.000 summons a fodra here and that does
+00:14:32.000 nothing uh this is the bad one to draw
+00:14:34.040 by itself not a tuner and if he links I
+00:14:36.279 can nuke the field so I'm kind of just
+00:14:37.880 chilling waiting to see what happens and
+00:14:39.800 he decides to just someone a pass so
+00:14:41.759 this is where the ashenda kind of fails
+00:14:43.560 to kill especially when you don't have
+00:14:45.519 the Trap and play as some more to note
+00:14:46.920 that I didn't use vados in his main
+00:14:48.320 phase before I ended his turn that's
+00:14:49.920 because he says he's leaving main phase
+00:14:52.160 but if I use a vados he has a stain main
+00:14:53.800 phase and I could be tricked into making
+00:14:56.519 a play uh preemptively and then if he
+00:14:58.800 stays in main phase and has more
+00:14:59.800 interruptions I get screwed so playing
+00:15:01.040 Just for Advantage trigger my vados
+00:15:02.720 effects and and like get the maximum
+00:15:04.440 value of triggering vados and obsidium
+00:15:05.959 every turn CU greedy it actually opens
+00:15:08.079 him up to do tempai stuff and versus
+00:15:10.040 tempai biggest thing is make sure they
+00:15:11.040 don't do tempai stuff cuz they do you
+00:15:12.680 die Engine versus engine a lot of the
+00:15:14.240 time versus tempai when they get going
+00:15:16.160 they'll beat you so just know where you
+00:15:18.079 stand and that's all right so that's why
+00:15:19.399 what I'm playing for here now uh if he
+00:15:21.360 actually passes and fantastic I'll
+00:15:23.399 always take that and I'll be a bit
+00:15:24.519 slower because I obviously missed the
+00:15:26.279 first trap and all such but I'm good
+00:15:28.600 this time so now I finally get the Ashen
+00:15:30.480 of Eternity and I can start making good
+00:15:32.120 Fusion plays in the next turn this turn
+00:15:34.040 I really don't have that much Firepower
+00:15:35.720 that the ability to clear off their
+00:15:36.959 fields with the fusion effect as well as
+00:15:38.600 produce this High attack monster this
+00:15:40.959 deck can't put up incredible damage
+00:15:42.639 really fast um so yeah this next turn is
+00:15:45.560 still going to be the same setup I'm
+00:15:46.680 still going to be trying to establish
+00:15:48.199 field spell control as well as clean up
+00:15:50.279 the field a bit maybe de a bit of damage
+00:15:52.040 uh and two vad Us in the field is kind
+00:15:53.319 of awkward cuz you can't start linking
+00:15:54.759 them away so I think I may decide to
+00:15:57.000 start clearing them off a little bit
+00:15:59.000 want to note that foder here can't be
+00:16:00.399 killed by battle and that's where obsid
+00:16:02.519 is important because the turning at pyro
+00:16:03.880 means I can use the special ability of
+00:16:05.319 the Embers to punch through it it does
+00:16:08.000 mean that I don't deal damage but that's
+00:16:09.639 okay because the biggest thing here is
+00:16:10.639 skipping off the body that could be a
+00:16:12.680 problem next turn and pH comes I cycle
+00:16:14.880 the draw and I still have a bunch of
+00:16:16.680 hand traps and I'm feeling pretty good
+00:16:18.440 there some to spot the last turn where I
+00:16:20.079 can just keep controlling the field
+00:16:21.120 spells and then now that I actually have
+00:16:23.279 my trap I should be good to go another
+00:16:26.720 po here is a good sign probably can't
+00:16:28.360 afford to do I mean maybe he can but
+00:16:30.279 it's kind of rough so three cards we'll
+00:16:32.000 see what he does we'll change a heart
+00:16:33.360 lightning storm and call by none of
+00:16:35.120 which are too impressive maybe just be
+00:16:36.399 call by to hit a my veilers in hand
+00:16:38.839 change of heart doesn't do much cuz I
+00:16:40.040 have my Ashen for eternity and lightning
+00:16:41.639 storm cannot be activated so pretty good
+00:16:43.360 here change of heart comes down
+00:16:44.240 targeting the Embers uh and I decide
+00:16:46.040 before he link summons be a good idea to
+00:16:48.759 fuse everything away uh this way he can
+00:16:51.040 kills backer as well in case he set a
+00:16:52.480 Kim in last turn uh or imperm or just I
+00:16:55.160 mean imperm doesn't do that much but
+00:16:56.480 just generally uh keep him off of any
+00:16:58.959 anything overly destructive next up he
+00:17:01.480 summons padra and it's clear no field
+00:17:02.959 spell some good to go and effector comes
+00:17:05.439 down actually it's Talent next and and
+00:17:07.240 talent is not really that good here cuz
+00:17:08.959 he can't draw with prosperity he look at
+00:17:10.520 my hand and take a hand trap which is
+00:17:11.959 fine or steal my monster but he steals
+00:17:13.559 my monster here and you know puts a lot
+00:17:15.400 of damage but this doesn't matter cuz
+00:17:16.679 now I can just fuse using his field uh
+00:17:19.240 so here before he gets to link away or
+00:17:21.240 turn stuff to attack in chabata Phase
+00:17:22.880 you know it's just simple I'm going to
+00:17:24.799 make the Fusion Monster here fuse away
+00:17:26.799 my three pyros back and I get to Nuke
+00:17:29.840 the field with the two vados the fusion
+00:17:31.840 and the monster and obviously there's no
+00:17:32.880 back it's not going to matter I kill the
+00:17:34.520 padra and he'll be left with a couple
+00:17:36.720 mey cards to my still vados in hand
+00:17:38.720 it'll hit check a field spell as well as
+00:17:40.000 my hand traps passes back and should be
+00:17:43.160 the rest is history here I have my setup
+00:17:45.320 still very much intact still vados in
+00:17:47.080 hand with obsidium I already have the
+00:17:49.080 fusion trap face up 4500 attack fusion
+00:17:51.960 and now the only I have to do here is
+00:17:53.400 figure out what's the best way to kill
+00:17:54.520 oniru uh and I'd realize later how easy
+00:17:57.400 it is to do this but it's still just
+00:17:58.799 important to make sure you're not making
+00:18:00.360 a mistakes
+00:18:01.400 so especially as it's your if it's your
+00:18:03.840 first few times really getting hold of
+00:18:05.360 the deck so I set the next strap here
+00:18:07.120 Ashen for endlessness or I don't
+00:18:09.320 remember the names but the one that
+00:18:11.159 steals the Priestess out act as more
+00:18:13.280 fusion material but then I realized that
+00:18:14.880 like I don't need this extinguished
+00:18:16.640 anyways cuz I just still have the Fusion
+00:18:18.799 Monster up get Shaman out get another
+00:18:20.960 obsidium but again this is really just
+00:18:23.120 Overkill if I just fuse it is game
+00:18:25.360 because you get the extra bonus attack
+00:18:26.640 from the from the the Trap
+00:18:30.000 um and at this point it is summon number
+00:18:32.280 three so I can only summon one more time
+00:18:34.159 while being safe in neiru uh and I get
+00:18:37.280 the uh the Knight here which will be
+00:18:38.840 able to pop the vados if I want
+00:18:42.280 to and here I'm just checking to see
+00:18:44.559 that which line will kill uh cuz I'm
+00:18:47.200 still very conscious in the be whether
+00:18:48.559 he has it or not it's just good habits
+00:18:50.559 either way and then once I figure out
+00:18:52.240 like the best lines to approach this
+00:18:53.600 I'll be able to keep doing it moving
+00:18:54.919 forward in the tournament so here I fuse
+00:18:57.600 um for Embers with extinguished for no
+00:18:59.760 reason this is not the correct play uh I
+00:19:01.880 just forgot I could use the Trap again
+00:19:03.120 using his monster and because the EM
+00:19:04.960 attacks twice it's just game but yeah
+00:19:07.000 know if I just used the Trap it was also
+00:19:08.480 just
+00:19:13.400 lethal moving on to game number two I
+00:19:16.559 feel like this is a rather good match up
+00:19:17.679 for me cuz I got to go first establish
+00:19:19.360 myself and then the biggest advantage to
+00:19:21.720 his deck is the field spell and be able
+00:19:24.840 to cut that off is fantastic but then
+00:19:26.159 also I CAU off a lot of going second
+00:19:27.400 cards that require him to have no cards
+00:19:29.360 on the field like Landing storm uh or
+00:19:31.120 evenly matched so that's another big
+00:19:33.120 Edge that's some here I'm not sure what
+00:19:34.799 I'm really expecting I am still
+00:19:36.919 expecting to probably way to go first
+00:19:38.159 cuz if he he goes first he makes eratic
+00:19:39.919 seal which is nothing versus my deck
+00:19:41.280 anyways and even if he does make heric
+00:19:42.880 seal then like my traps like Barry will
+00:19:44.320 still be good I put in Bell cuz let me
+00:19:45.919 take out some of the Dead cards I don't
+00:19:47.000 want I think Veil Ander are pretty bad
+00:19:48.840 in this match up same in the biru have
+00:19:50.280 to take those out as well and then
+00:19:51.640 cosmics are good good in this position
+00:19:53.960 uh now if I'm not able to get AOS in his
+00:19:55.559 field or he has a duster to kill it then
+00:19:58.720 Cosmic is pretty bad value and it's just
+00:20:00.280 more n see to hit the field spell
+00:20:01.919 however I still feel like is better than
+00:20:02.880 S like imp reviler so that's why I elect
+00:20:05.360 to go with Cosmic and yes he makes me
+00:20:07.240 start again uh and now I have to really
+00:20:08.880 think about how I want to approach this
+00:20:10.679 turn um I activate stingu here to check
+00:20:13.000 for a hand trap and I'm pretty sure I
+00:20:14.280 only have The Awakening of Vos is my
+00:20:15.679 actual way to play so I El to see if he'
+00:20:19.159 Ash The Eternity he doesn't and I just
+00:20:21.919 set the Awakening to pass uh and use it
+00:20:24.480 as ability to pop the field spell I
+00:20:26.440 could have gone for a better play and
+00:20:28.280 use the Awakening immediately but I felt
+00:20:31.120 like using it as a trap hit the field
+00:20:32.799 spell was actually just more important
+00:20:34.640 so even then hit the field spell eating
+00:20:35.919 the cosmic is not bad cuz now I can use
+00:20:38.039 the Trap more freely uh and use the St
+00:20:40.120 rotation here this will play over the
+00:20:41.880 obsidium now I I do make a mistake here
+00:20:44.480 uh we check the ruling for a bit on uh
+00:20:47.120 how this resolves uh because in olden
+00:20:50.000 days when you destroy a field spell but
+00:20:52.520 play when you put a field spell on top
+00:20:54.080 of a field spell you destroy it uh and
+00:20:56.440 then uh if it would if it had an effect
+00:20:58.520 that that triggered by being destroyed
+00:21:00.080 it would be able to trigger so I feel
+00:21:02.600 like something got changed and it got
+00:21:04.000 changed to being destroyed by game
+00:21:05.960 mechanics I thought but still count is
+00:21:07.720 being destroyed and obsidium does not
+00:21:09.760 specify if it's by card Effect so uh I I
+00:21:13.520 came to the conclusion that okay let's
+00:21:15.120 uh trigger obsid here however after the
+00:21:17.440 match when I asked some judges online
+00:21:19.080 the store couldn't give me an answer uh
+00:21:20.840 it turns out that I could not activate
+00:21:22.000 it so no this is not a legal activation
+00:21:24.320 here of Z cidem I'm still fairly
+00:21:26.360 confident this game would have gone in
+00:21:28.240 my a favor without the special summon
+00:21:30.559 here uh I I'm the the advantage that Vos
+00:21:34.279 provides is still plenty I feel like I
+00:21:36.279 still would have been in a good spot
+00:21:37.400 even without the special summon here but
+00:21:38.919 given that I get the Priestess another
+00:21:40.559 obsidium because I just want to make
+00:21:41.960 sure I have that cycle completely going
+00:21:43.720 something happens to my videos here I do
+00:21:45.039 want it to uh have another followup and
+00:21:47.520 with the second vados in hand that just
+00:21:49.000 means that should everything I have in
+00:21:50.279 play go arai then I still have an
+00:21:52.840 entirely next line of defense or you
+00:21:55.360 know play next turn better to sum myself
+00:21:57.200 up again that the Fusion trap set up and
+00:22:00.440 now we'll see what he can play for it
+00:22:01.679 he'll have two four cards up in hand and
+00:22:04.400 I still have Ash for kimman and I feel
+00:22:06.400 okay no Padre here uh and I let it
+00:22:10.120 resolve because he's already used the
+00:22:11.279 field spell to search it's unlikely
+00:22:12.360 he'll go the field spell and also he
+00:22:13.880 can't even activate the field spell
+00:22:14.760 ceration locks him from activating while
+00:22:16.200 control face the field spell that means
+00:22:17.720 he can hold the ash for this Kim in here
+00:22:19.360 and if he goes battle phase quick Ash
+00:22:21.120 unless there's a call by means he can't
+00:22:22.919 progress the game plan any forward if he
+00:22:24.360 had a chra it could have been nasty but
+00:22:25.960 thankfully not anything that had
+00:22:28.000 happened from here you can just clean up
+00:22:29.640 the Priestess uh which would have been,
+00:22:31.760 1600 directly in in in proper game but
+00:22:35.200 it's fine so here draw for turn and I
+00:22:37.360 get to chicken game get the free draw it
+00:22:38.799 means I draw Prosperity won't do
+00:22:39.960 anything but it's okay so next I play
+00:22:41.720 over the chicken game with the obsidian
+00:22:42.799 which again I shouldn't have butless we
+00:22:44.279 play more than I needed to uh I could
+00:22:45.880 have just used the extinguishing grave
+00:22:47.440 to set up Embers play uh pretty easily
+00:22:50.400 and that would have been sufficient but
+00:22:52.279 uh at this point I get plenty of fusion
+00:22:53.840 materials up and I get to just do
+00:22:56.760 anything I want very easily Le line he
+00:22:59.279 actually use the trap on as sumon number
+00:23:01.000 four and it's enough to kill him and
+00:23:03.400 that's the match and there yeah we see
+00:23:05.120 two nirus in his hand so we made the
+00:23:07.919 correct play by playing around it uh
+00:23:10.159 both games not sure if we had a game one
+00:23:11.840 but yes playing around neiru very
+00:23:14.080 important all right we were able to take
+00:23:15.840 down round one um tempai is a pretty
+00:23:18.320 good match up because Vos just solos the
+00:23:20.080 deck and Awakening helps as well um but
+00:23:22.159 it's been a while since I played this
+00:23:23.159 deck and it's kind of showing my
+00:23:24.320 rustiness all Theory only gets you so
+00:23:26.320 far when you're missing your triggers
+00:23:27.640 like the first vados I forgot to do and
+00:23:30.080 uh kind of had to back in the flow of
+00:23:32.000 how I want to play my resource
+00:23:32.960 management for this game because it's
+00:23:34.320 atypical with what a normal deck wants
+00:23:35.799 to do but otherwise run one down Jitters
+00:23:38.080 are gone and it should be good for us
+00:23:39.240 the
+00:23:43.960 tournament all right and now we've made
+00:23:45.960 it to round number two at locals it's a
+00:23:48.520 lot more likely that you know what your
+00:23:49.480 opponent's going to play because you can
+00:23:51.240 walk between rounds however as a content
+00:23:53.360 creator I'm spending a lot of my time
+00:23:54.880 between rounds focusing on fixing any
+00:23:56.480 lighting issues in the previous rounds
+00:23:57.799 or l work so I don't actually have that
+00:23:59.640 edge and I'm not sure what I'm going to
+00:24:01.559 be up against here my opponent rolls a
+00:24:03.640 nice 10 and I'm unable to match it so
+00:24:05.480 another die roll lost but no fear that's
+00:24:07.640 why we play hand traps uh we have the 12
+00:24:10.120 plus the vados and I feel relatively
+00:24:12.039 okay here the opening of the spirit gate
+00:24:13.760 tells me all right this is either
+00:24:14.760 Unchained or youell but that's a lot of
+00:24:17.200 information to go off of and we can hand
+00:24:18.840 trap accordingly hits backing beast and
+00:24:20.679 then adds chaos summoning beast and this
+00:24:23.279 makes me lean towards more of an actual
+00:24:24.840 ubel deck because it needs more one card
+00:24:26.320 combos to play by itself I think this is
+00:24:28.039 way wor in the actual unchain deck uh
+00:24:29.760 but and but still just noticing how much
+00:24:31.880 of a choke point Yama can be on some of
+00:24:34.120 these decks I imp permit because without
+00:24:35.600 an excessive unchain cards in these
+00:24:36.880 decks if you cut them off there they
+00:24:38.360 have no way to keep playing past it and
+00:24:40.080 then I hold the astris masara cuz I know
+00:24:41.520 this is another huge choke point of the
+00:24:42.559 deck and my knowledge of the deck pays
+00:24:44.240 off great because he just passes right
+00:24:45.559 after strong hand on my behalf but it
+00:24:48.399 made it very easy he just can't do
+00:24:49.799 anything now I get to get my obsidium
+00:24:52.600 and as long as I have my two card play
+00:24:53.760 intact then we are golden so here I'm
+00:24:56.360 thinking about how I want to approach
+00:24:57.360 this turnout uh
+00:24:59.200 and I get the prosperity for six here
+00:25:00.640 first because I feel like it may change
+00:25:02.399 how I summon off my obsid or what I add
+00:25:04.760 off my Priestess I'm pretty sure my way
+00:25:06.279 to play here is Priestess uh get
+00:25:08.600 extinguished get vados and I'd rather
+00:25:10.640 not do that but here he ashes the
+00:25:11.919 prosperity and I'm thinking here like is
+00:25:13.880 this worth doing cuz I won't be able to
+00:25:15.440 do the same like play that I would
+00:25:17.279 before uh if I let this resolve but I
+00:25:20.679 have call so I do have the ability to
+00:25:21.919 stop it that being said call is
+00:25:24.399 absolutely insane versus his deck
+00:25:26.159 especially if he goes the next turn uh
+00:25:27.840 discards Spirit Gates targeting samsara
+00:25:29.679 I could banish it it also cuts off the
+00:25:31.360 samsara as he could get later in the
+00:25:32.559 turn uh or I can even use in other
+00:25:34.200 effects like Spirit to ubell so I
+00:25:36.120 decided let it go through and decide I
+00:25:37.240 have enough gas to play with just what I
+00:25:38.840 have that I'm better off holding the
+00:25:40.720 call by and if his last card is veiler
+00:25:42.919 or one of his last two cards are veiler
+00:25:44.039 then I can still check it if you had a
+00:25:45.799 face down card that could be imperm I
+00:25:47.080 would be a lot more inclined to chain
+00:25:49.039 The Call by here but not have that I get
+00:25:51.320 to the V stuff and I'm remembering the
+00:25:52.799 Trap this time let's go uh I get my
+00:25:55.360 Ashen for eternity here and I should add
+00:25:56.960 this to my hand this is endlessness add
+00:25:58.919 endlessness I should add it to my hand
+00:26:00.640 um that way I can mix it up with the
+00:26:02.120 call but sure I I just grab it uh face
+00:26:05.120 down bit of just uh suboptimality in on
+00:26:08.840 my behalf I'm thinking through what's
+00:26:10.399 the best line of play Given that I'm not
+00:26:12.080 doing my normal combo so yeah here I
+00:26:14.320 realized the quick adaptation that when
+00:26:15.679 I start pre priest I can manipulate the
+00:26:18.080 play a little bit differently by using
+00:26:20.360 an extra level four body cuz I already
+00:26:21.799 have the one established get Banshee get
+00:26:23.640 the vados that way and then if i s the
+00:26:25.200 extinguish engrave that would give me
+00:26:27.399 access to
+00:26:28.760 The Embers what I noticed by doing this
+00:26:30.799 play is if the card I need to search off
+00:26:32.559 Priestess like in this case I already
+00:26:34.240 have the obsidium and I could search I
+00:26:35.799 need to search Vos to get going for the
+00:26:37.279 combo but if I already had the vados and
+00:26:38.919 needed to search obsid off of the
+00:26:41.159 Priestess then I had no way to access
+00:26:43.559 extinguish therefore no way to fuse and
+00:26:45.520 that would have been a bit different so
+00:26:47.320 uh just something to keep in mind cuz
+00:26:48.279 that type of trend is important as I
+00:26:50.000 keep playing the rest of the tournament
+00:26:51.240 here I set myself up again uh I have my
+00:26:53.880 eruption as I said again ready to go on
+00:26:55.440 the next turn um and I should be able to
+00:26:57.720 kill him the next turn as long as I hold
+00:26:59.240 him off here he searches again with the
+00:27:02.000 his backings and Gates which are all
+00:27:03.320 like kind of low value searches not
+00:27:05.080 really super important uh and here he's
+00:27:07.080 just checking his some targets left so
+00:27:08.200 he can't activate it which I I don't
+00:27:09.520 really care about uh I mean it kind of
+00:27:11.120 tells me maybe he doesn't have a normal
+00:27:12.240 summon then he has a normal summon like
+00:27:13.880 okay so I didn't matter that much uh he
+00:27:15.720 tributes it and I'm going to call by it
+00:27:17.399 so now he knows not to revive it with
+00:27:19.320 Spirit Gates but it's fine I think
+00:27:20.520 stopping that call by here is super
+00:27:22.440 important still and now I know most
+00:27:24.960 cards in his hand now he discard sham
+00:27:26.919 here and that's actually a really good
+00:27:27.880 discard card because this in combination
+00:27:30.640 with a lot of the other Unchained cards
+00:27:32.000 and ubel cards are immune to destruction
+00:27:33.520 and that that is my main form of
+00:27:35.360 disruption so it is a little bit
+00:27:38.559 concerning and until it's my turn I am
+00:27:41.120 not able to fuse with his monsters so
+00:27:42.880 here I'm wondering if it is worth me
+00:27:45.440 using vados and then fusing the field I
+00:27:47.320 decide it's not worth it I'll let him
+00:27:48.760 keep playing if he summons Yama uh he
+00:27:51.519 can't pop anything without setting a
+00:27:52.720 card first and then I can do it later I
+00:27:54.399 want to get into how I use the shyama
+00:27:55.760 especially because if you had a card to
+00:27:56.880 set and I nuke the fields and you can
+00:27:58.519 use shyama and then trigger the the Yama
+00:28:02.240 I actually knew the last card his hand
+00:28:03.279 he could said it was the uh uh spirit
+00:28:05.519 Gates but here we used the shyama first
+00:28:07.399 which means I get to keep going and now
+00:28:08.919 I need to fuse here because if I don't
+00:28:10.559 the shyama will pop the the monster but
+00:28:12.480 also now the shyama is used and use Yama
+00:28:14.760 thankfully uh that I'm in a pretty
+00:28:16.399 comfortable spot to just clean up and
+00:28:19.120 after I nuke the field here he'll have
+00:28:20.440 no cards left and all last card Spirit
+00:28:21.799 Gates and I should be good to go so I'm
+00:28:23.519 just making sure I can kill him next
+00:28:24.519 turn uh just setting up that level of
+00:28:26.559 followup diffuse everything away way and
+00:28:28.640 I get to NC
+00:28:30.320 field um making Embers probably also
+00:28:32.720 would have been fine I would have uh
+00:28:34.320 added back the obsidium and I already
+00:28:35.760 the vadas in hand or the extinguish
+00:28:37.440 vados uh and and that would have been
+00:28:39.360 completely manageable as well but this
+00:28:42.039 case is also just fine he has no cards
+00:28:43.720 left I mean there's no way I lose I
+00:28:44.720 already did some damage last turn so
+00:28:46.240 then I get to Eternity I get to add back
+00:28:48.880 uh and yeah th this is this is honestly
+00:28:51.440 just good enough as well because even if
+00:28:52.720 I don't have the the Embers this can
+00:28:55.080 Shuffle back some of the cards I I I I
+00:28:57.159 need to recycle get another obsidium all
+00:28:59.720 anyways that way uh yeah I mean there's
+00:29:02.039 no way I ever lost this game at this
+00:29:03.600 point uh I knew every card he had and as
+00:29:07.279 we'd say in Josh's stream we had perfect
+00:29:09.880 information so yeah game over all we
+00:29:12.559 have to do is get
+00:29:18.120 there think about what I side deck here
+00:29:20.120 I have a lot of good options here uh
+00:29:21.679 Bell's great versus deck that's mostly
+00:29:22.960 graveyard based so we the bols versus
+00:29:25.080 that deck uh and then other cards like
+00:29:27.840 dark cooler could also be very
+00:29:29.000 functional as well as other hand CHS
+00:29:30.399 like mner because hitting that Yama as
+00:29:31.760 you can see was fairly uh practical so I
+00:29:34.279 have to find a way to manage all these
+00:29:35.440 things also keeping my engine intact but
+00:29:37.760 I end up deciding to lighten up a bit of
+00:29:39.399 my engine uh I take out um some of our
+00:29:43.960 our starters cuz the six card may help
+00:29:45.880 me a bit and just fill up the hand trap
+00:29:48.200 lineup a little more comprehensively I
+00:29:49.720 end up deciding I can't decide I can't
+00:29:51.320 put in like three Bell three M and three
+00:29:52.919 bols there just too many cards so I
+00:29:54.559 think I decid like one or two of each M
+00:29:56.640 Bellon and the bols I decided to be the
+00:29:58.399 best and least clunking multiples so I
+00:30:01.039 opt to max out on those all right so get
+00:30:03.120 a quick look at my hand here and I'm
+00:30:04.600 pretty sure I didn't have much in the
+00:30:06.120 form of hand traps besides effect failer
+00:30:09.519 here starts off with n red plane plus
+00:30:10.720 Spirit ell which is absolutely
+00:30:13.720 incredible uh because he gets access to
+00:30:17.039 several different parts of his engine
+00:30:18.440 now uh he can get like the ubel and a
+00:30:21.399 grave squirmer the grave squirmer will
+00:30:22.880 then turn into yama which would threaten
+00:30:24.919 Interruption as well as the squirmer can
+00:30:26.399 revive the spiritos another B card like
+00:30:28.440 Eternal favorite which is pretty much
+00:30:30.519 Ash and for endlessness and uh I'd be
+00:30:34.360 pretty much playing on the back foot the
+00:30:35.760 X followup is also really good so I I'd
+00:30:37.960 really be in a rough position he had
+00:30:39.679 some s here so I'm inclined to think he
+00:30:40.880 doesn't have a normal summon very
+00:30:42.080 important read to make here as I map out
+00:30:43.600 my disruption for us the turn no Sam
+00:30:45.440 Sara and I like to not to stop it here
+00:30:47.440 because if he does have the grap SC in
+00:30:49.760 hand then I'm just doing this all for
+00:30:52.000 nothing uh and I'd rather hold in TR
+00:30:53.760 from something else now i' like to
+00:30:55.000 veiler this Spirit of Yubel here because
+00:30:59.480 I think the uh the Eternal favorite is
+00:31:01.600 just a card I cannot handle uh and I'll
+00:31:03.840 try deal with the rest of the board pie
+00:31:05.559 at a time but the ability to keep
+00:31:06.679 floating backy Bells plus fusing my
+00:31:08.159 field would mean he's just doing the
+00:31:09.799 same thing as me but better so uh try to
+00:31:12.519 keep him off it however he has shavara
+00:31:14.679 so he can't play through it now if he
+00:31:15.960 had grave srimer he also would able to
+00:31:17.200 stop it but I felt like was a risk worth
+00:31:18.600 taking we'll see how that pans out so
+00:31:20.519 get the Jal favorite uh very clear to
+00:31:22.440 him that that's what I was trying to
+00:31:23.480 stop I don't know if he plays more on
+00:31:24.919 chain cards than just shavar or shyama
+00:31:26.919 which I actually see which can actually
+00:31:28.200 sees in his hand so he doesn't have too
+00:31:30.960 much in terms of what to do he just
+00:31:32.639 makes rage here instead gets a set and
+00:31:34.519 unchain trap from the deck the Y and
+00:31:36.559 Grave his followup is a little weakened
+00:31:39.279 although the Escape is kind of rough
+00:31:40.919 being able to pop my cards uh and the
+00:31:43.880 rage into SP is what kind of concerns me
+00:31:45.679 the most cuz that'll clear my field
+00:31:46.760 super effectively as well as he'll have
+00:31:48.480 the ability to contact use if he get the
+00:31:49.799 ubell up as more the ubell is not here
+00:31:51.519 so I don't Orit contact used during this
+00:31:53.039 turn J thinking what's the best way to
+00:31:54.519 approach this that's important to note
+00:31:55.880 that because there's no yam in grave if
+00:31:57.519 I'm a bble to force out the Escape then
+00:32:00.080 this rage will be gone permanently and
+00:32:01.360 he won't be able to link for SP but also
+00:32:03.399 if he uses the rage to make SP and he
+00:32:06.519 can't use the Escape so I should be in
+00:32:10.039 an okay position but still incredibly
+00:32:12.039 hard to deal with this because while I
+00:32:13.159 may be able to push through the current
+00:32:14.320 field I also have to keep in mind how do
+00:32:16.159 I stop his followup Eternal favor will
+00:32:18.960 be able to revive a ubel monster from
+00:32:21.120 the grave which is a problem in its own
+00:32:24.039 but then also in future turns we able to
+00:32:25.799 fuse it's going to be constant flow of
+00:32:27.240 resources and I don't have immediate
+00:32:28.399 answer to that I can't do anything
+00:32:29.480 unless I fuse for my Vos fusion and
+00:32:33.240 that's going to be hard to set up
+00:32:34.120 especially while he has the Escape here
+00:32:35.600 because if he holds the vados and is and
+00:32:37.240 is careful with it then it's a problem
+00:32:39.559 because yeah he'll just hold the escape
+00:32:41.480 from my trap and I'll have no real way
+00:32:43.360 of beating it again I set set it here
+00:32:45.000 instead of adding to hand which is
+00:32:46.279 really stupid but again if he just held
+00:32:47.480 it for when I activate it the still also
+00:32:48.840 answers it entirely I'm thinking what's
+00:32:50.840 the best way if any I can force it so I
+00:32:53.200 have to think how do I force this Escape
+00:32:55.440 trap so that I can then rely on the
+00:32:58.919 endlessness to get to vados to the back
+00:33:01.159 row it put me in decent position cuz
+00:33:03.320 that's I think what the game plan is
+00:33:04.559 going to be especially as he hasn't
+00:33:06.159 established too much of a followup in
+00:33:07.399 terms of graveyard effects we got
+00:33:08.880 presets just to generate more bodies on
+00:33:10.320 field uh I'm still kind of just lost at
+00:33:12.960 like what the best option is I get
+00:33:14.679 extinguished cuz it'll set a fusion Play
+00:33:16.000 If I need to do something proactive and
+00:33:17.200 immediate and get cards out of my
+00:33:19.240 hand uh so then I get to my hand the
+00:33:21.600 hero I think I set it out night going
+00:33:23.679 second I decided the pop effect wouldn't
+00:33:25.039 ever be too worth it although here it
+00:33:26.760 might have been pretty good if I'm
+00:33:28.399 staring at the uh the rage and Vos being
+00:33:31.320 able to chain to the to the Rage or the
+00:33:33.440 escape to tell my effects go through
+00:33:35.399 could have been pretty nifty here he
+00:33:37.600 decides to use the effect to link off
+00:33:39.679 I'm like okay this is fine we'll see if
+00:33:41.200 he goes sp or anguish he goes anguish
+00:33:43.399 this anguish here means the Escape is
+00:33:44.559 still alive which uh still leaves my
+00:33:47.399 trap vulnerable and that's kind of the
+00:33:48.919 problem okay so after all that is done I
+00:33:50.760 still have a prosperity in hand and now
+00:33:52.240 if I foresaw all this happening I was
+00:33:54.679 better off either using the prosperity
+00:33:55.799 to start of the turn to try and find an
+00:33:57.039 answer but I didn't feel like I could
+00:33:58.559 find any card that really fix the
+00:33:59.880 situation so I'd be better off saving
+00:34:01.399 for next turn and why I did this is
+00:34:03.200 because lets me trigger the obsidian in
+00:34:04.600 the end phase but back the other
+00:34:06.279 obsidium in the grave draw a card which
+00:34:08.239 is both advantage and some resource
+00:34:09.918 cycling now obviously that confliction
+00:34:11.918 between prosperity and the field spell
+00:34:13.480 can be kind of annoying uh and that is
+00:34:15.639 why I don't love prosperity's deck
+00:34:17.239 however I think you do need it it's just
+00:34:18.520 one of the best cards in the game
+00:34:19.879 especially in a deck that doesn't have
+00:34:21.560 this just observed amount of starters or
+00:34:23.359 one card of plays does need to start
+00:34:25.000 pairing things together so I like two
+00:34:26.719 just pass line my hand traps as well as
+00:34:29.079 my endlessness and hope that maybe he
+00:34:31.639 misses that the endlessness is my key to
+00:34:34.560 Victory and uses SC with something else
+00:34:36.280 cuz again like there's no given espe
+00:34:38.079 when playing a rogue deck your
+00:34:38.879 opponent's are going to know exactly
+00:34:39.960 what to stop so at this point as we
+00:34:41.599 reach the end phase he uses his eternal
+00:34:43.440 favorite to revive the ubel uh and I'm
+00:34:45.399 debating here if it's worth bailing it
+00:34:47.520 but because you can't use effects on the
+00:34:49.079 summon I decid that okay the summoning
+00:34:50.679 SP ell doesn't actually search it's not
+00:34:51.839 a big problem to uh to resolve so yeah I
+00:34:55.440 get my my draw I'm feeling comfortable
+00:34:57.359 and then before he ends he makes a very
+00:35:01.160 big mistake he flips rivalry uh and it
+00:35:04.119 takes us a second to realize it but I'm
+00:35:07.280 like wait they're all pyros cuz on my
+00:35:10.000 turn they're pyros and he activated
+00:35:11.280 rivalry on my turn which means he's
+00:35:14.040 actually selecting pyros when he uses
+00:35:16.400 rivalry and then when the turn ends his
+00:35:19.640 monsters turn off pyro except Vos but
+00:35:22.560 he's already locked into pyros the new
+00:35:25.119 monsters have to leave and now he's
+00:35:27.320 rival locked them into
+00:35:31.240 pyros pretty pretty bad uh and now what
+00:35:34.520 looked like an very rough position for
+00:35:36.240 me has now turned out to be quite
+00:35:38.640 favorable so here he turns the battle
+00:35:40.320 phase and attacks uh and I'm feeling
+00:35:42.839 pretty good uh it was very curious why
+00:35:45.040 he put rivalry in versus my deck at all
+00:35:47.079 it is not good but that's okay mistakes
+00:35:50.520 happen and our opponent will certainly
+00:35:52.720 not be doing that again I know I know
+00:35:54.359 they learned their lesson after this cuz
+00:35:55.599 this was a very rough
+00:35:58.319 I to think about what's the best way to
+00:35:59.480 go here and I know the last card is
+00:36:00.880 escape so unless there's a hand trap I
+00:36:02.960 should be able to get everything going
+00:36:05.240 um getting the Priestess should mean I
+00:36:07.319 get to extinguish then get the fados and
+00:36:10.000 the cycle shall continue because I
+00:36:12.240 already have some sort of pyros in the
+00:36:13.839 grave I'm thinking how can I set up uh
+00:36:16.560 an ability of Shaman to get an extra
+00:36:19.000 field spell in play which I can then
+00:36:20.520 convert into a draw by playing on top of
+00:36:22.119 the field I back off Embers or just not
+00:36:23.920 adding back of Embers in general so here
+00:36:25.440 I go for like a s line here I get the
+00:36:26.640 shaman again oh no instead of vados here
+00:36:28.480 I decide that I get hero to special
+00:36:30.960 summon uh and do I already have a vados
+00:36:33.920 is that why I did this I'm not sure
+00:36:35.760 actually would Vos have been better even
+00:36:37.800 I got the Vos special from the
+00:36:39.680 deck um would this have been better I
+00:36:41.920 would have got the other trap which
+00:36:43.040 could have been solid I think what I
+00:36:44.520 wanted to do here actually is I realize
+00:36:46.520 I want to make the the oos Fusion
+00:36:49.160 Monster here to blow up his back cuz it
+00:36:51.119 hits his follow up even though it
+00:36:51.920 unlocks rivalry I feel like it's still a
+00:36:53.400 solid play however my plan actually
+00:36:55.079 doesn't work I I realize this quickly
+00:36:57.079 because if if I make the uh Banshee it
+00:36:59.359 doesn't have a level and the Vos Fusion
+00:37:01.200 Monster requires level 9 a lower pyro
+00:37:03.079 monsters so I can't access that if I go
+00:37:05.920 for that play So I decide to kind of
+00:37:09.160 abort what I was doing and I just attack
+00:37:10.920 I do my half damage and I pass over to
+00:37:12.640 him and he just concedes his hand is not
+00:37:15.560 anything that does anything uh he was
+00:37:17.839 clear he either excited out the shyama
+00:37:19.440 or he drew it after he su off Escape so
+00:37:23.880 yeah and I mean I had the three hand
+00:37:25.000 traps to feel relatively comfortable
+00:37:27.040 against his three card hand as well as
+00:37:29.000 some of a setup although that could have
+00:37:30.400 been played a bit better still okay
+00:37:32.280 round one done and that was a show of
+00:37:34.800 what not to do almost um yeah that's the
+00:37:38.280 thing when you have all these weird
+00:37:39.280 cards and Unchained you battle cards as
+00:37:40.920 well amount of floating makes the game
+00:37:42.440 stes incredibly complicated that's
+00:37:44.359 that's not to say this is an excuse for
+00:37:45.960 for sloppy play but um I kind of
+00:37:48.319 struggling how to how to deal with all
+00:37:50.359 the floating kind of racking my brain
+00:37:51.800 what what's my game plan cuz you don't
+00:37:53.520 want to just blind activate things you
+00:37:54.800 want to have some sort of actual
+00:37:56.440 strategy and you kind of just gave me
+00:38:00.119 the out
+00:38:01.480 so
+00:38:04.119 um yeah weird game but 2 I think it's
+00:38:06.640 two rounds to go let's uh let's get
+00:38:13.599 this all right we've made it to round
+00:38:16.440 three and so far 20 with O2 and D rolls
+00:38:20.000 is a pretty good start and I'm feeling
+00:38:21.800 pretty confident in the deck uh now I'm
+00:38:25.319 still learning obviously and mistakes
+00:38:26.640 have been abundant in the first two
+00:38:28.040 rounds but as I get a better grasp on
+00:38:30.680 the new play patterns with the new cards
+00:38:32.640 it becomes a lot easier to to play play
+00:38:35.200 faster and play more effectively uh and
+00:38:37.280 here opponent rolls a nine and I roll a
+00:38:40.040 seven or a six can't see exactly but
+00:38:41.880 yeah I I lose the roll again but that's
+00:38:44.240 okay do not fret uh that we play hand
+00:38:46.319 traps for a reason uh and this deck can
+00:38:47.839 actually play into a board somewhat okay
+00:38:49.280 it's not the end of the world and then I
+00:38:51.200 see my oppon some momento and I'm like
+00:38:53.079 oh that's super cool because I actually
+00:38:55.040 learned this deck in m not too long ago
+00:38:57.280 and and I think it's not that bad but it
+00:38:59.319 also means I know how to interact with
+00:39:00.640 it now I know what all the cards do
+00:39:02.040 which when you're playing with a rogue
+00:39:02.920 deck is like part of the biggest
+00:39:04.240 challenge in trying to
+00:39:06.200 succeed so here I know the C want to
+00:39:08.200 stop here is tatso knew something
+00:39:10.079 something something but that horsey
+00:39:12.839 thing is the biggest card to stop he
+00:39:14.359 needs bone party to play through it with
+00:39:16.440 the fusion spell Fusion spell being kind
+00:39:18.240 of awkward in many of those spots he has
+00:39:19.839 bone party so he can't play through it
+00:39:21.079 to a decent extent here uh via Goblin
+00:39:23.599 Goblin will send to you from deck to
+00:39:24.800 grave and then you can revive
+00:39:27.920 the mace off of the witch and he'll
+00:39:30.520 he'll get into all his plays now it's
+00:39:32.319 funny here playing the cards in master I
+00:39:33.800 I make this remark in real life not
+00:39:35.359 familiar with the TCG Rarities of the
+00:39:36.560 cards so seeing like mace being a super
+00:39:38.359 rare where in my head if I had
+00:39:39.800 envisioned what Rarity mace would be I
+00:39:41.920 probably would have thought it' be a
+00:39:42.720 rare being like a one of monster from a
+00:39:45.040 side set that's rare only but yeah so he
+00:39:47.480 gets the godic out gotic adds back the
+00:39:49.359 the bone party for next turn okay that's
+00:39:51.359 whatever um and then gets the mace mace
+00:39:53.880 effects tribute off and then give him
+00:39:55.440 access to the fusion fusion fusion being
+00:39:58.680 the very strong card in this deck
+00:40:00.119 because it let him fuse from the grave
+00:40:02.240 uh by shoving cards back but then also
+00:40:04.079 will let him summon this insane Fusion
+00:40:06.400 that has a whole other bunch of
+00:40:08.000 abilities you'll see then in the grave
+00:40:09.560 mental Fusion also can bance yourself to
+00:40:11.839 pop a card and then add another Fusion
+00:40:13.720 or any other Mento spell but here he
+00:40:15.240 makes the the Fusion Monster that lets
+00:40:16.560 him revive one from grave and when it's
+00:40:18.599 popped and then on Su it can pop itself
+00:40:20.240 any other Mento card to add two Mentos
+00:40:21.520 from neck to hand so see here where it's
+00:40:23.200 all going and he's getting all the MOs
+00:40:25.319 in place uh and now while a lot of the
+00:40:27.359 the cards individually aren't that great
+00:40:29.119 um the ability to mass cycle through
+00:40:31.000 your deck is is pretty impressive and
+00:40:33.000 you can see why the cards aren't more
+00:40:34.160 powerful because they were would be nuts
+00:40:36.200 like tier level of cycling here it's
+00:40:38.000 combine creation out which if you're not
+00:40:39.640 familiar with just summons from the
+00:40:40.640 grave when a card Effect is activated so
+00:40:42.359 he's going to be able to summ that witch
+00:40:43.359 back which can then search a mace which
+00:40:45.079 can then steal a card of control so I'm
+00:40:46.400 going to have to keep track of that two
+00:40:47.880 the cards face down I know there a
+00:40:49.160 fusion spell and a bone party so know
+00:40:50.599 both cards are there I have to plan
+00:40:52.119 around guarding chimer as well the thing
+00:40:54.000 here is creation will also come back
+00:40:55.200 each turn so he has the disruptions and
+00:40:57.480 he has followup here uh and this is
+00:40:59.119 going to be incredibly hard to beat so
+00:41:00.599 I'm trying to approach what the best way
+00:41:02.560 is to deal with this and I I I realized
+00:41:05.200 that pretty quickly the card I need to
+00:41:06.839 deal with badly is SP and the reason is
+00:41:09.960 is sp not only like proves disruption my
+00:41:12.240 turn but then if I try to fuse the vados
+00:41:14.000 away during his turn he can SP chain
+00:41:16.400 banish the vados and it'll pretty much
+00:41:18.440 negate any of my efforts to clear his
+00:41:20.160 field so not only will there be a whole
+00:41:21.720 lot of followup that I have to worry
+00:41:22.920 about but this SP can pretty much cancel
+00:41:25.560 out any sort of disruption I'm trying to
+00:41:27.000 provide
+00:41:28.040 uh and this is a lot for me to actually
+00:41:30.400 tackle this deck while being okay into
+00:41:32.440 Fields is not the best equipped to deal
+00:41:34.680 with several different uh issues at the
+00:41:36.560 same time and The Grind game is not
+00:41:39.079 phenomenal it is fine it's not a
+00:41:41.839 terrible deck in The Grind game but a
+00:41:43.720 deck like momento I think that is very
+00:41:46.000 much graveyard effect Reliant thrives
+00:41:48.359 significantly more in these type of game
+00:41:49.839 States so I'm not trying to force Grind
+00:41:52.200 game and he probably is I trigger the
+00:41:54.520 vados here I'm thinking what do i
+00:41:55.520 special summon anything I summon
+00:41:57.319 probably just get hit by uh by this SP
+00:42:00.520 or get stolen I think the best course of
+00:42:02.079 action is to go for Knight here because
+00:42:03.599 I can chain pop the vados and try to
+00:42:06.280 trigger it but in reality if he just
+00:42:08.119 times his disruptions appropriately then
+00:42:11.520 I am going to get boned so i s up the
+00:42:15.160 hero here because I don't have the field
+00:42:16.640 spell in play here I can only target Vos
+00:42:19.160 uh nothing's a pyro at the moment
+00:42:20.599 besides Vos here have to think how to
+00:42:22.359 maneuver this properly but right now
+00:42:23.400 this just threat in a battle phase clear
+00:42:25.319 and then a pop as well where he uses the
+00:42:26.960 main to steal the the Knight then yeah
+00:42:29.599 I'm uh I'm just double checking to make
+00:42:31.559 sure that uh I can't do anything about
+00:42:33.640 this and I can go like chain pop uh that
+00:42:37.559 way he can't use the pop itself because
+00:42:39.839 if I if I give him the hero he can pop
+00:42:42.480 itself with his own effect I won get
+00:42:43.800 back in the end phase so I try and pop
+00:42:45.839 the vados here to make sure that he
+00:42:47.440 can't use the effect even though I know
+00:42:48.920 that this will never resolve the SP will
+00:42:50.800 check it and then yes SP chain here
+00:42:52.240 banishing the vados and itself meaning I
+00:42:54.040 won't be able to deal with either of
+00:42:55.040 those resources for rest of the turn
+00:42:56.400 then I follow up with the prosperity and
+00:42:57.640 I'm not really sure what I look get here
+00:42:58.920 like I drew most of my cards that let me
+00:43:01.359 extend and I don't have too much going
+00:43:03.200 for me I reveal hand traps there as well
+00:43:05.760 as another Awakening ofos which is looks
+00:43:07.359 okay as well as Priestess there's really
+00:43:09.319 not too much going for me right I'm
+00:43:10.359 still trying to think how do I beat this
+00:43:13.200 until a fusion face down turn into
+00:43:14.280 Guardian Chimera uh cuz I need to in all
+00:43:16.839 reality find a way to deal with this SP
+00:43:18.680 and then also protect my endlessness to
+00:43:20.280 then resolve uh cuz then maybe just
+00:43:22.440 maybe if I'm able to full clear the
+00:43:23.640 board here you want to follow up if he
+00:43:25.200 doesn't have a graveyard on play then
+00:43:27.520 the then the then the comine creation
+00:43:29.240 can't come out um but even that being
+00:43:30.680 said the momental fusion will able to
+00:43:32.079 add back cards and the bone party will
+00:43:33.400 special from the deck so it's not
+00:43:35.200 looking too hot for our Ashen player
+00:43:38.079 here uh and I'm thinking what the best
+00:43:39.559 course of action here is and I'm trying
+00:43:41.280 to think if there's any way for him to
+00:43:42.520 cycle back banished monsters maybe I can
+00:43:44.920 try a grinding game with call um which
+00:43:47.720 was a strategy that like wasn't
+00:43:49.000 consistent for me to get and I decide
+00:43:50.319 okay it's not worth uh maybe I can bait
+00:43:52.480 him with uh with awaken noos and I think
+00:43:55.800 here okay now my game plan here if I
+00:43:57.559 have to protect the uh The Awakening is
+00:43:59.599 set cards face down pretend to go to end
+00:44:01.880 phase by saying end of main phase one
+00:44:03.319 force men to a fusion regarding Chas the
+00:44:04.960 bad cards and then I'll be good however
+00:44:07.200 the reality is and I quickly realize
+00:44:08.520 this that even though I'm able to pull
+00:44:09.480 this off successfully uh I'll be left
+00:44:12.079 with one card and that's it um and the
+00:44:14.839 one card I'll have and he FES away the
+00:44:16.680 the the Knight so I want to lose that as
+00:44:18.079 well as my ability to trigger vados um
+00:44:21.400 and the reality there is now I just
+00:44:23.079 still only have one card to deal with an
+00:44:24.359 entire field of followup and that's just
+00:44:26.520 still never going be enough for me to
+00:44:27.680 win I decid to pack it up I should stop
+00:44:29.160 wasting my time here and this one is a
+00:44:36.839 loss now aside side deck while this deck
+00:44:39.280 does have fusion monsters I decided it's
+00:44:40.839 probably not worth putting a de barrier
+00:44:42.040 in this deck isn't Fusion dependent and
+00:44:44.240 once you get going to the point where
+00:44:45.480 you have the fusion but the fusion spell
+00:44:47.200 and grav is honestly good enough so you
+00:44:48.480 want to use de preemptively and if you
+00:44:50.440 do that they can chain it if they have
+00:44:52.359 another copy that wasn't searched which
+00:44:53.440 is kind of annoying so you kind of for
+00:44:54.599 Draw d barrier they can pivot their
+00:44:56.359 plays accordingly
+00:44:57.559 they can still do a lot of their strong
+00:44:58.880 plays just not the specific Fusion line
+00:45:00.880 ultimately I think that means it's not
+00:45:02.400 worth going for D barrier when I go
+00:45:04.680 first uh I think Bell is pretty good
+00:45:06.400 though cuz they have a lot of effects
+00:45:07.559 that are kind of crucial to revive from
+00:45:09.880 the grave and that could a good spot
+00:45:11.520 including the fusion if I Bell the
+00:45:12.880 fusion or even a or a mace or something
+00:45:15.599 targeting a mace it could be pretty good
+00:45:17.240 as well as I'm still uncertain here if
+00:45:18.599 they can cycle back their banish cards
+00:45:20.680 so uh I'm thinking here at least for the
+00:45:22.480 next game that I may want to have some
+00:45:25.160 bols and play now here I look at my hand
+00:45:27.160 I have three hand traps as well as vados
+00:45:28.880 or way to get vados and obid so I'm just
+00:45:31.319 making sure they don't have any better
+00:45:32.280 lines but the uh the play here is simple
+00:45:35.359 I have no way to beat a hand trap I just
+00:45:37.200 kind of got to go for it the Vos in a
+00:45:39.000 play add it back to my hand uh I can
+00:45:41.400 play the obsidium and then I kind of
+00:45:43.680 just go for it now the big thing I have
+00:45:45.240 to wonder here is if I'm going for the
+00:45:46.400 fusion spell or the fusion trap off of
+00:45:48.200 the Vos here or Ashen for eternity which
+00:45:51.040 gets me more follow up theoretically I
+00:45:52.800 decided the fusion trap is still just
+00:45:54.040 better because even if I get stopped
+00:45:55.920 here I get hand trapped
+00:45:57.440 then I can fuse for Embers add back the
+00:45:59.520 field spell it gu sets me up partly for
+00:46:01.599 for the next turn um and then when I add
+00:46:03.839 back the obsidium off Embers in his turn
+00:46:06.280 uh I can activate on my turn and then
+00:46:07.680 use his field away like super poly but
+00:46:09.960 thankfully uh he doesn't veiler uh the
+00:46:13.760 hero so I get to go a bit further I get
+00:46:15.599 to remake the Embers here instead of if
+00:46:18.400 he had hit the the hero obviously he
+00:46:21.359 doesn't know that I didn't have
+00:46:22.040 Priestess in hand so i s the the obsid
+00:46:24.280 up uh it just means that I'm liking a
+00:46:25.839 vados uh he doesn't know know that
+00:46:27.240 though so I guess you just pass Pretty
+00:46:28.480 comfortably and I Bluff it up as well as
+00:46:32.280 making all his guys pyro the second my
+00:46:34.800 turn starts other than me having to
+00:46:36.359 activate a first action of the next turn
+00:46:37.839 St Prosperity here reveals a couple
+00:46:39.480 options including ashtrol and then
+00:46:41.480 Prosperity which is nothing Ro which
+00:46:42.760 gets the dark blade or the goblin he
+00:46:44.839 adds ashy which tells me he should
+00:46:46.079 already have sufficient engine I have to
+00:46:47.280 be careful and think the field spell is
+00:46:48.880 nice here cuz uh it does give me more
+00:46:50.559 information on his hand on how to stop
+00:46:52.040 him appropriately normal dark blade and
+00:46:54.040 then use the effect of Pop which very
+00:46:55.599 much lines up with my veiler hand I'm
+00:46:57.160 feeling confident about that cuz not
+00:46:58.440 only does he lose the card but now he
+00:46:59.480 doesn't get to use the second effect the
+00:47:00.440 dark blade and really take advantage
+00:47:02.079 it's important to note the here that his
+00:47:03.720 M Clan uh can revive from the grave one
+00:47:06.319 of those guys is destroyed so I'm not
+00:47:07.720 going to pop the field here uh I'd
+00:47:10.280 rather just take the damage not let him
+00:47:11.760 revive dark blade from grave cuz that's
+00:47:13.800 going to be how he gets into plays or
+00:47:15.440 revive his Angel um and then without a
+00:47:18.480 bone party or a play another play of his
+00:47:21.240 own he's kind of in a hard spot another
+00:47:23.160 nice thing about Vos here as well is it
+00:47:24.520 stops him from accessing the tatsuno
+00:47:27.760 gusu whatever it's called because he has
+00:47:29.520 to control only no monsters or momentos
+00:47:33.680 um so yeah very hard for him extend past
+00:47:36.160 this point I get to diffuse by clearing
+00:47:37.760 the field and I get to uh poke some
+00:47:40.880 damage now because my my flow of
+00:47:42.400 resources got off last turn you can see
+00:47:43.680 why it's important to keep cycling up
+00:47:44.839 your eruptions uh I can't do too much
+00:47:46.760 here thankfully he's also low on cards
+00:47:48.640 so I I to keep off of bay yeah there's
+00:47:51.839 that horse that he couldn't summoned
+00:47:52.839 last turn uh and I am permanent just to
+00:47:54.680 make sure he can't do anything if he
+00:47:55.920 enters battle phase you'll be able to
+00:47:57.440 revive a card with the field spell so I
+00:48:00.000 decide okay it's fine this is why I had
+00:48:01.480 Bell in this match up is a important
+00:48:03.200 effect here don't eat the damage I'll
+00:48:04.800 Bell it now his last card has to be
+00:48:06.480 something meaningful otherwise he'll
+00:48:07.599 just die on The Following turn again my
+00:48:09.240 guy does have this bonus attack it's at
+00:48:10.599 39 thanks to the Trap card and yeah it's
+00:48:12.720 it's it's enough damage to seal it even
+00:48:14.640 though my cut of my flow resources was
+00:48:16.480 cut off the uh the hand traps I had
+00:48:18.880 established with the little bit of
+00:48:20.240 presence I did have was enough to win
+00:48:22.200 now if he uh had veiled the hero it may
+00:48:24.960 have been a different story thankfully I
+00:48:26.880 was able to get a little bit further and
+00:48:28.680 it's all
+00:48:33.680 good so as I said I'm deciding for the
+00:48:35.760 next game I am thinking about bols in
+00:48:37.920 this deck uh because for One lets me
+00:48:39.720 deal with SP which is nice as well just
+00:48:41.480 attack over super cleanly then if I'm
+00:48:43.079 able to banish any one of Mento monsters
+00:48:45.640 and that' be pretty good so I think it
+00:48:47.760 is a solid strategy as well as just all
+00:48:49.359 my hand traps I think every hand trap
+00:48:50.760 here I should have should be somewhat
+00:48:52.400 playable against the deck because yo can
+00:48:55.119 play through one or two hand traps but
+00:48:56.200 it's not fantastic but our opponent here
+00:48:58.240 on momento unfortunately bricked and
+00:49:00.040 it's not really that bricky of De so
+00:49:02.119 that's unfortunate um I remember
+00:49:04.319 thinking my hand was not fantastic
+00:49:06.559 either so here I just extinguished even
+00:49:08.000 though I already have V in hand just to
+00:49:09.200 see if he'll hand trap it which he
+00:49:10.440 shouldn't but that's okay so I set up my
+00:49:12.799 Fusion trap again just you know going
+00:49:14.599 through the lines uh based off how much
+00:49:16.720 I searched this Fusion trap you maybe
+00:49:18.200 wonder how often you need Ashen to
+00:49:19.520 Eternity it is lot important it can
+00:49:21.319 definitely contribute to Brick your
+00:49:22.559 hands um something to think about as we
+00:49:24.960 go forward with the deck construction
+00:49:26.280 here it's incredibly apparent as I'm
+00:49:28.440 playing these games out how unimportant
+00:49:30.040 it is yes hand traps were expected uh
+00:49:32.559 and I do get stopped on this hero here
+00:49:34.520 and now I do have this other vados in
+00:49:35.760 hand that he knows about I could fuse
+00:49:38.000 with the uh extinguished and then add
+00:49:40.400 back the uh the field spell but if I do
+00:49:43.520 there's a good chance he gets veiled
+00:49:44.799 again so I'm kind of thinking what the
+00:49:46.720 best approach is here if I kind of just
+00:49:48.599 set and pass and try to play a bit slow
+00:49:50.480 try trigger the other vados that way
+00:49:52.760 fashion V turn and play a bit of a long
+00:49:54.240 game or just be more aggressive here I
+00:49:57.559 decid okay let's just fuse and uh try
+00:50:01.359 apply pressure that waye especially if
+00:50:02.920 he brick I can kill the vados and just
+00:50:05.520 uh deal damage and that might be good
+00:50:06.920 enough uh cuz he got the double attack
+00:50:08.319 here it's also important to know here
+00:50:09.400 that he used veiler on the hero and not
+00:50:10.680 on the Banshee like last time and I
+00:50:11.839 think that makes a big difference it
+00:50:13.359 would have been uh a lot easier if he
+00:50:15.640 had held the veiler again but maybe he
+00:50:17.119 learned from some missteps in last turn
+00:50:19.559 and I just set up my beater and like
+00:50:21.520 okay I have disruption so hopefully this
+00:50:23.839 this this double attacker with 2900 will
+00:50:26.079 just be enough I think actually this is
+00:50:27.400 a reason why I uh I feel about this the
+00:50:30.400 reason why I decided it was worth is
+00:50:31.559 fusing away I already had Nation for FR
+00:50:32.680 eternity so uh I can use instead of
+00:50:35.040 resource cycling later I can just add
+00:50:36.400 back Vos here so I still able to keep up
+00:50:38.200 some flow of resource and uh here dark
+00:50:40.559 blade lines up again with then perm um
+00:50:42.920 and it it's glaring weakness to effect
+00:50:44.680 negation is is very very evident um with
+00:50:47.880 how this lines up so here you try use
+00:50:49.319 gtic and I'm pretty sure you can't
+00:50:50.599 because it does say by monster effect
+00:50:53.520 and being sent for cost is not a monster
+00:50:56.160 effect so here he see how how he plays
+00:50:57.920 about this if he crashes he can use mlan
+00:51:00.799 to revive the gatic which then can back
+00:51:03.040 to dark blade but really doesn't too
+00:51:04.079 much besides take damage so he Deets to
+00:51:06.119 and passes and I mean was clear you
+00:51:07.480 probably would be able to play through
+00:51:08.480 this too much uh baring maybe the fusion
+00:51:11.160 spell as he really would have play turn
+00:51:13.960 one if he had the ability to and I'm
+00:51:15.280 thinking how do I get into this and
+00:51:16.559 again I don't Vos here uh in his turn
+00:51:18.680 because if he has ways to play through
+00:51:19.920 it then it's a problem I'd rather hold
+00:51:21.520 the vados for disruption and if he
+00:51:23.280 actually ends his turn and not just
+00:51:24.480 leaves main phase one battle pH back to
+00:51:25.720 main phase two then I'm in a comfortable
+00:51:27.440 spot anyways so you can very much see
+00:51:28.520 the concept in in motion here where I'm
+00:51:30.799 not trying to maximize value I'm just
+00:51:32.319 trying to play around what he has at the
+00:51:33.640 same time he imp perms in the column for
+00:51:35.839 eternity trying to stop me stealing his
+00:51:37.880 monster uh as well as shut off the
+00:51:39.400 Priestess but my ability to diffuse here
+00:51:40.960 is it's pretty good now it's more to
+00:51:43.480 know that because I don't OB I can't
+00:51:44.640 fuse with this dark blade I thought
+00:51:46.160 maybe I could at the time which would
+00:51:47.359 have been nice we're still making the uh
+00:51:49.880 en Embers or the vadas fusion what I
+00:51:52.040 have is still very good it's to dodge
+00:51:54.160 the imperm here um
+00:51:57.160 and I'm just double checking the levels
+00:51:58.240 on Embers making sure I can fuse for the
+00:52:00.280 Vos Fusion I get it out for the one of
+00:52:04.160 for the first few times this tournament
+00:52:05.839 I get to Nuke up the back row here uh as
+00:52:08.200 well as establish the neate I get to
+00:52:09.480 force the Priestess through to get
+00:52:10.559 Shaman and uh that Shaman will also give
+00:52:12.760 me back the obsidium so then the
+00:52:14.760 obsidium will give me a draw so the flow
+00:52:16.319 of of resources here has been
+00:52:17.520 established and I'm in a very good
+00:52:18.960 position imprim here is modly annoying
+00:52:21.119 it means you'll be able to use the uh
+00:52:23.839 the mtic clan again and then because I
+00:52:25.640 thought I'd be killing the mtic clan
+00:52:27.680 with the vados I trigger both vados
+00:52:29.280 factor to Nuke his monsters um so now
+00:52:31.480 that his field spell lives he can revive
+00:52:32.680 the gatic and then revive the dark blade
+00:52:34.559 there's a bit of fall for next turn
+00:52:35.680 that's fine I'm still able to force the
+00:52:36.960 Priestess through to get the shaman
+00:52:38.440 which will get me another field spell
+00:52:39.880 get me another draw the end of the turn
+00:52:40.880 so my flow resources have been fully
+00:52:42.319 reestablished and I am very confident
+00:52:44.839 that I can win the game now with the
+00:52:46.920 abundance uh of card Advantage as well
+00:52:50.200 as uh my engine fully intact and just
+00:52:52.480 other non-engine disrupts I proceed to
+00:52:54.520 end phase get my free draw and now I
+00:52:56.559 know is dark blade plus one other card
+00:52:58.319 he probably won't be able to deal with
+00:52:59.799 anything I have left noral was the dark
+00:53:01.280 blade and uses the effect giving away
+00:53:03.319 any information he had in his hand I
+00:53:05.280 know I now know everything I have to
+00:53:06.640 deal with uh and this just really isn't
+00:53:08.599 a problem I get to chain the fuse chain
+00:53:10.760 vados uh and when that will accomplish
+00:53:13.280 is now I just fuse those away get the
+00:53:14.640 Ember out and nuke the field so even
+00:53:17.079 though my monster dies doesn't matter
+00:53:18.960 blow up everything else and he is done
+00:53:21.440 for the claw our way back from a game
+00:53:23.760 one loss and we are moving on to the
+00:53:25.760 final round undefeated all right so
+00:53:28.440 round three is in the books and just
+00:53:29.760 like with the yui deck we are 3 0 going
+00:53:32.000 into the final round so question is can
+00:53:34.240 we pull off this final round to win
+00:53:35.880 locals with Ashen um I have not the most
+00:53:39.680 thrilled to have been playing today
+00:53:40.920 though and this deck is tricky because
+00:53:42.920 managing flow resources can be kind of
+00:53:44.359 hard and versus other Decks that have a
+00:53:46.000 good time like cycl resources that
+00:53:47.960 aren't as super like straightforward as
+00:53:49.240 snake eye it's kind of a brain scratcher
+00:53:51.640 for me to deal with it especially cuz
+00:53:53.119 I'm not like super familiar with the
+00:53:54.799 game plan and while now I know ment to
+00:53:56.319 like like beyond the base level I still
+00:53:58.079 don't know the deck well enough to know
+00:53:59.839 exactly where their critical choke
+00:54:01.799 points are so yeah but other way still
+00:54:04.720 happy with how that went um luck was on
+00:54:07.119 my side with the last round brick but
+00:54:09.400 one run to go we got this maybe we'll
+00:54:10.880 win die roll number one here cuz I think
+00:54:12.440 I've lost all four right or lost all
+00:54:14.119 three so far maybe my memory fails me
+00:54:16.640 but you let me
+00:54:21.400 know in our final round we are paired up
+00:54:24.280 against Assad the person who I came with
+00:54:26.079 and one of my friends who if you
+00:54:27.720 remember the first astion video he is
+00:54:29.240 the person who I tested with to learn
+00:54:30.520 the deck the first time so he should
+00:54:32.480 know what the Ashen cards do he's
+00:54:34.839 learned uh and I lose the die roll again
+00:54:37.839 so that means we are playing on the back
+00:54:39.920 back pedal for every single round and
+00:54:42.280 now I don't know anybody else is playing
+00:54:43.599 this tournament I do know what Assad is
+00:54:45.119 playing because I've talked to him
+00:54:46.880 plenty times about it it's melodia snake
+00:54:48.559 eye and he starts with asado which is
+00:54:50.839 rough cuz that is the strongest card of
+00:54:52.520 the deck I think I had one hand trap
+00:54:53.960 here being veiler uh and a veiler
+00:54:55.720 refrain cuz hope that cuts him off but
+00:54:57.599 it it's really not that much he gets to
+00:54:59.440 make SP or anything else and if he has
+00:55:02.720 any sort of other extenders then I'm in
+00:55:04.640 a rough spot makes SP though which
+00:55:06.960 signifies um that either he's trying to
+00:55:09.040 make make an a snake ey Ash next and
+00:55:10.960 throw away the IP or SP as he plays as
+00:55:14.599 as like a kind of way to play around
+00:55:16.200 veiler or he just has nothing else and
+00:55:17.839 we see passes nothing else so that's a
+00:55:19.200 very good sign for us we can push
+00:55:21.200 through just an sp sp is kind of
+00:55:22.960 troublesome but if we just burn our
+00:55:24.160 battle phase to kill it it it's not too
+00:55:25.720 much of a problem and in this deck the
+00:55:27.359 battle phas isn't too important as we're
+00:55:28.599 not really killing the uh I'm going to
+00:55:31.240 get my Fusion trap I decide that if he
+00:55:33.000 brecks there's a good chance he has
+00:55:33.920 cards like EMP veiler face down
+00:55:35.200 especially if he didn't an ash already
+00:55:36.680 so going for the Knight is better cuz I
+00:55:38.079 can clear the field uh and then making
+00:55:40.319 Embers into veiler is is a lot more uh
+00:55:43.280 clean not nearly as risky so uh I I I
+00:55:46.319 attack with with the hero here uh and
+00:55:48.440 then thinking about how I want to go
+00:55:49.559 about this next turn think about if it's
+00:55:51.240 worth me fusing away my plays uh and I
+00:55:53.440 actually decide that it's not worth
+00:55:54.760 committing to the veiler it's like there
+00:55:57.400 um and I can make an Embers on his turn
+00:56:00.240 while nuking his field with endlessness
+00:56:02.599 here it's very easy for him to force it
+00:56:04.079 out if he links it away it'll be kind of
+00:56:05.880 a problem as well though obviously he's
+00:56:07.039 not super inclined to link away the
+00:56:08.200 vados as he'll kind lose everything he
+00:56:10.640 committed in order to do so so then he
+00:56:12.119 summ witch witch and uh that tells me
+00:56:14.400 that's the cardu for turn it's very
+00:56:15.559 unlikely that he had witch and decided
+00:56:17.720 that it wasn't uh worth summoning the
+00:56:20.160 last turn especially when you had such
+00:56:21.839 an easy way to play around it with the
+00:56:23.760 SP on Field playing around other ve Rim
+00:56:25.319 perms and me obviously not having Ash as
+00:56:27.400 I didn't stop the atinado here turn
+00:56:29.119 stuff to attack points and the fusion is
+00:56:31.319 about to come out um I get to Nuke is
+00:56:34.079 two monsters as well as set myself up uh
+00:56:36.880 now if he has imperm then it means I
+00:56:37.920 won't be able to get the the field 12
+00:56:39.160 back up which is a bit of a waste of
+00:56:41.200 resources but it's not the end of the
+00:56:42.880 world and if it goes through then I'm
+00:56:44.400 pretty sure I will just be in an
+00:56:46.119 entirely dominant position here uses the
+00:56:48.359 imperm and uh that's fine it means I get
+00:56:51.480 to clear the field and and it's full and
+00:56:54.000 I'm an okay position as we proceed to
+00:56:55.240 the next turn uh now here I I I think I
+00:56:57.599 draw Shaman for turn and that is just
+00:56:58.799 fantastic because it means I can get the
+00:57:00.559 cycle back going assume there's no
+00:57:01.799 veiler there was no veiler which means
+00:57:03.280 his only card was the impermanence uh
+00:57:05.319 now could be a mner still at the play
+00:57:06.680 around but uh veiler was safe I got my
+00:57:09.400 FL resources going and I am in an
+00:57:11.680 extremely good spot now I can fuse uh
+00:57:13.760 get my flow resources eternity will get
+00:57:15.559 me the uh the Ashen back I get hero any
+00:57:19.119 he MERS and summon so I'm like okay well
+00:57:21.119 I can't chain um eff to fuse here
+00:57:24.920 because he does it on summon so maybe I
+00:57:26.960 should have got Priestess to avoid this
+00:57:28.440 cuz if he goes Priestess and he MERS
+00:57:30.480 there I can train the effective fuse and
+00:57:32.039 maybe he just wouldn't have done that I
+00:57:33.359 fig it's okay though because at this
+00:57:34.680 point he doesn't have uh veiler or I I I
+00:57:37.200 doubt he does so I still get to go
+00:57:38.680 Embers and add back and it's still more
+00:57:40.319 than fine and get the the field spell uh
+00:57:42.440 the draw on the end phase at this point
+00:57:44.000 like my my eruptions are all kind of set
+00:57:47.079 up and I have no fear and he just
+00:57:49.520 concedes that point game is over
+00:57:56.720 so now as I'm siding for Snake Eyes the
+00:57:58.200 main thing is hand traps are key uh I
+00:58:00.200 side in MERS cuz I want to just up as
+00:58:01.880 much hand traps as possible and the
+00:58:03.799 Streamline the engine because cards like
+00:58:06.440 Knight may not be too important now it's
+00:58:08.599 weird cuz Knight was pretty good there
+00:58:10.359 at killing SP and that made me consider
+00:58:12.440 keeping it in but I feel like ultimately
+00:58:15.000 um those type of Bricker cards can
+00:58:17.319 provide to my downfall I really need to
+00:58:18.880 see my cycle of eruptions going once I
+00:58:21.640 can trigger all my volcanoes uh then I'm
+00:58:24.440 good but I have to get to that point
+00:58:25.599 right I have to to shut him off with
+00:58:26.760 hand traps and then have my own engine
+00:58:28.720 going and any brick can just stop that
+00:58:31.319 from being a reality all right so he
+00:58:32.880 starts off with refrain um and yeah I
+00:58:36.480 veiled this because I feel like there's
+00:58:37.640 not much way to play through it unless
+00:58:38.520 he has bonfire and he passes I'm like
+00:58:40.119 okay cool um that's pretty good now I'm
+00:58:43.599 pretty sure my hand wasn't fantastic I
+00:58:45.079 do need to rely on Prosperity to get me
+00:58:47.200 somewhere and it resolves revealing
+00:58:49.280 these six cards in my deck uh and I
+00:58:50.880 think I actually just didn't have a way
+00:58:51.760 to get my field spell and I look at here
+00:58:53.680 and there's still no way to get field
+00:58:54.640 spell I can get vados to hand unless he
+00:58:56.480 plays a field spell that isn't going to
+00:58:57.599 do too much so I get extinguished here
+00:59:00.359 uh in case maybe he'll draw me uh it's
+00:59:02.400 not a big deal or he'll Ash me um I do
+00:59:04.559 have call by to force it through but
+00:59:05.880 this doesn't do much I'm really thinking
+00:59:07.280 like I can't do anything here I decide
+00:59:08.839 not to extinguish um just in case that I
+00:59:13.720 can try use it as like a hand trap bait
+00:59:15.839 on the next turn if I draw like
+00:59:17.000 Awakening uh and then yeah maybe maybe
+00:59:20.200 that'll just be like the best bait but
+00:59:22.359 obviously uh it's risky now also means
+00:59:24.720 if I draw a a p monster a draw Vos I can
+00:59:26.920 search a second one and then fuse with
+00:59:28.480 it noral popular here I can't assume
+00:59:30.119 it's the cardi Drew cuz he had he had
+00:59:31.359 two normal summons then that's very
+00:59:32.680 reasonable uh and when he want it it's
+00:59:34.839 clear okay that's the cardi DW for turn
+00:59:37.119 uh that gives me good information on
+00:59:38.880 what he potentially has left makes SP
+00:59:41.119 it's the trigger and this is looking
+00:59:43.839 really rough because now if he uh if he
+00:59:47.000 witches then I won't have uh a gr way to
+00:59:50.359 stop this I decided that if it witch
+00:59:52.400 resolves I lose anyway so I have to mner
+00:59:54.280 he can't protect it from resolving by
+00:59:55.799 using using little Knight um but if he
+00:59:58.079 does that he'll likely have no cards
+00:59:59.400 face up to send off the original uh this
+01:00:02.799 is still really bad for me but it pretty
+01:00:05.400 much guarantees that I have to do
+01:00:06.599 something this next turn or I lose but I
+01:00:08.440 buy myself a turn this way and maybe
+01:00:10.640 it'll be enough so he tags them out he
+01:00:12.240 won't deal damage this
+01:00:13.559 turn but it means this next turn will be
+01:00:15.720 my last if I can't kill him on this next
+01:00:18.119 turn it is over or kill him at least set
+01:00:20.119 follow I draw ash turn and it's just
+01:00:22.400 nothing um I I activate distinguish cuz
+01:00:25.440 like okay maybe the game plan here is
+01:00:27.039 summon the Fusion Monster Attack twice
+01:00:29.359 has no monsters in hand and then he
+01:00:30.920 can't use original that is like all I
+01:00:32.400 can do um so I I set up the the fusion
+01:00:35.440 play and then I met with the barrier and
+01:00:37.359 I'm like huh um I guess my deck is kind
+01:00:40.400 of a fusion deck so I cut off there and
+01:00:42.520 I'm like all right well it wasn't even a
+01:00:43.559 good play but it was my only play so uh
+01:00:45.599 that kind of seals it fade normal
+01:00:46.640 summons another refrain and yeah I'm
+01:00:48.000 just very very out of there um there is
+01:00:50.280 no chance winning this game I have the
+01:00:51.680 ash for original now cuz it's the card
+01:00:53.839 of ju turn so I have some what of a way
+01:00:56.520 to stay in the game and maybe I can live
+01:00:58.000 especially cuz I didn't take damage last
+01:00:59.000 turn clearing the field but now with the
+01:01:00.319 melodious cards he can get up a lot more
+01:01:01.760 resources and uh and do quite a lot
+01:01:03.960 what's important to know here is that
+01:01:05.079 with the melodious cards he can put
+01:01:06.440 bodies up and get to Banshee because
+01:01:08.319 he's already uses normal summon all he
+01:01:09.599 can get is popler the popper can't get
+01:01:11.440 original in grave uh and if he even he
+01:01:13.400 puts it back with wanted he can't use it
+01:01:14.760 again this turn but he's not going to
+01:01:16.119 use the temple unless he makes a misplay
+01:01:18.880 but either way it's still kind of rough
+01:01:20.720 because he's setting up a lot of bodies
+01:01:22.319 in play uh that ultimately are going to
+01:01:24.240 be kind of hard to deal with here gets
+01:01:26.119 the popler oute and he decides he just
+01:01:27.359 wants to set up the bodies rather than
+01:01:28.599 the followup at this point you'll have
+01:01:29.960 the bunch of he'll have the four bodies
+01:01:31.200 in play including a link two so he
+01:01:33.400 essentially has five link bodies or with
+01:01:35.319 the Baka Reviving one six link bodies so
+01:01:37.119 he can do quite a bit he can make the
+01:01:39.160 get another link body on play and it's
+01:01:40.839 really clear that he can establish uh
+01:01:42.559 all is needed for an otk uh now if he
+01:01:45.119 goes for a raging fing otk however
+01:01:46.760 instead of like a just attack or access
+01:01:49.240 code play and I've called by the grave
+01:01:50.839 to mitigate it so I'm just going to be
+01:01:52.480 patient maybe he makes a mistake here
+01:01:53.640 want I get another turn not that I know
+01:01:55.319 how I can really deal with this on the
+01:01:56.640 back swing but I have to try the attacks
+01:01:59.559 with everything leavs me quite low and
+01:02:00.839 thankfully I didn't take damage to this
+01:02:02.160 game yet so I have some points remaining
+01:02:04.799 uh and then in the battle phase he uses
+01:02:07.240 elantis to pop and have to chain it here
+01:02:09.760 because if he he'll he'll pop the fire
+01:02:11.559 and he'll pop the uh call by so I chain
+01:02:14.200 The Call by I hit this the the Raging
+01:02:16.640 Phoenix I'm able to stay alive and
+01:02:19.440 whatever good does me I get one more
+01:02:21.480 turn but even though I get another turn
+01:02:23.760 his main pH he plays deck lock down
+01:02:25.440 which can assume he drew turn one but
+01:02:27.079 didn't play because he needed it to keep
+01:02:29.520 going on the next turn himself so all
+01:02:31.640 right man like I probably would have
+01:02:32.960 lost anyways but you got me man de lock
+01:02:35.480 down how
+01:02:40.200 fun now going for game three I can't get
+01:02:43.000 to ahead of myself even though I go
+01:02:44.440 first versus snake ey it is rough it is
+01:02:47.079 the best deck of the format even if
+01:02:48.319 melodious maybe isn't the best variant
+01:02:50.039 of it in my opinion uh the snake cards
+01:02:52.119 are still incredible and the second they
+01:02:53.359 get going it is really hard for almost
+01:02:55.200 any deck to keep up up so it is going to
+01:02:57.480 be my job to make sure that doesn't
+01:02:58.920 happen and volcanoes are enough to keep
+01:03:01.200 an at Bay I com our Final Duel of the
+01:03:03.079 entire tourament here with Awakening of
+01:03:04.599 veto it's a great start cuz it gets
+01:03:05.799 everything set up by itself this is the
+01:03:08.160 standard full combo to set up our
+01:03:09.680 eruption Loop and assuming he has no
+01:03:11.920 hand traps which is unlikely in a snakey
+01:03:13.839 deck so I give him the obsidian which
+01:03:15.200 turns off imperm as well as when I
+01:03:17.200 summon Vos it also turn off imperm so
+01:03:18.720 now imperm is not going to be a threat
+01:03:19.720 rest the turn I summon hero here because
+01:03:23.119 for one this will check from Warner
+01:03:24.359 immediately but also
+01:03:26.440 now if he has a way to stop a priestess
+01:03:29.000 whatever that threatens to search the
+01:03:31.079 another obsidian which I don't have
+01:03:32.200 another of then I still be able to
+01:03:35.000 special from the deck uh and this card
+01:03:36.640 just won't be stuck in my hand got
+01:03:37.960 Priestess out to keep the loop going and
+01:03:39.319 it's with the veiler I'm okay um that is
+01:03:42.920 uh somewhat to be expected I'm thinking
+01:03:44.359 what the best course of action is here
+01:03:45.559 like special again with this hero but I
+01:03:47.240 don't have enough grave for Shaman to
+01:03:48.920 use its ability I'm thinking what level
+01:03:50.880 four do I want to burn here I decided
+01:03:52.440 rather keep the shaman in deck so I'll
+01:03:53.960 use the second Priestess I don't mind
+01:03:55.319 getting out I get the banse here so here
+01:03:57.119 I add Shaman instead because I don't
+01:03:58.559 really need another Vos uh I already
+01:04:00.559 have the extinguish in hand so this
+01:04:02.960 gives me the the vados to hand and it's
+01:04:06.680 it's very clear that I have several ways
+01:04:08.400 to
+01:04:09.559 access uh obsidium and he's going to be
+01:04:11.920 in a bit of hard times now I can
+01:04:13.160 activate the obsidium and I still now
+01:04:15.000 that I have enough PES and Grave for
+01:04:16.240 Shaman I could summon it now and then if
+01:04:18.119 I wanted to I could play obsidium and
+01:04:19.559 top obsidian and convert the second
+01:04:21.240 obsidian into a draw so that's kind of
+01:04:23.039 going to be my next question in terms of
+01:04:25.720 what's worth doing at this point I have
+01:04:27.079 two unknowns in my hand and I have to
+01:04:28.680 decide if it's worth the one extra draw
+01:04:30.640 or the followup obum I decide it's worth
+01:04:32.640 holding followup cuz if you draws an ash
+01:04:34.240 return I want to have continual flow of
+01:04:36.720 obsid still in play here we go snake ey
+01:04:39.400 Ash and one of the best parts about this
+01:04:41.319 matchup and one of the only good parts
+01:04:43.119 of this match up is they're already
+01:04:44.119 pyros so I don't need obsidian on my
+01:04:46.440 turn to turn them off pyros to fuse with
+01:04:47.960 them cuz now I get to fuse away his
+01:04:49.680 monsters and keep him fully at Bay so
+01:04:51.960 now I'm thinking here what the best
+01:04:52.839 course of action is here I can make
+01:04:53.839 Embers with his monsters
+01:04:56.039 or I could fuse away uh the vados as
+01:04:58.359 well and make the fusion vados but this
+01:05:00.480 would accomplish is setting up the
+01:05:01.440 negate um that I can send an ashen card
+01:05:03.520 to neate an effects I haven't done that
+01:05:05.160 all tournament yet but it is solid
+01:05:08.079 effect so I think it's worth setting up
+01:05:09.760 it's important to know here that knowing
+01:05:11.200 is playing melus I do want to keep a
+01:05:12.680 card's field at all times that way he
+01:05:14.599 can't activate atinado so I activate the
+01:05:17.240 the vados immediately uh putting a
+01:05:19.480 defense you can't turn to attack and
+01:05:20.599 threaten to crash it which is nice took
+01:05:22.079 a newly summoned one also now we can't
+01:05:23.599 atin that Army and then after all this
+01:05:25.079 neg set up I still have mner and Ash in
+01:05:27.000 my hand and because I have these two
+01:05:27.960 hand traps is why I feel like the fall
+01:05:29.200 was more important over the draw and
+01:05:30.599 then I also summoned the Knight to keep
+01:05:33.039 him off of any pyro the threaten leaking
+01:05:35.160 off the vados uh and without the
+01:05:36.839 obsidium it doesn't matter still pops
+01:05:38.079 all the pyros so he can NE anado I have
+01:05:40.920 Ash for uh pral sinful spoil I am very
+01:05:44.480 set up and he caned in the spot able to
+01:05:46.680 defeat the snake ey manace pretty
+01:05:48.520 decisively in that game
+01:05:52.039 three all right for winning local
+01:05:53.880 tonight we got a ton of packs
+01:05:56.319 and then we got our entry packs as well
+01:05:58.000 so let's crack and see what we get an
+01:06:00.359 ashen
+01:06:01.960 card that's that's only fitting and we
+01:06:04.599 got oh okay that's one of the best
+01:06:05.640 secret rares although it doesn't say
+01:06:06.720 much in this Set uh this card is all
+01:06:08.839 right nightmare Apprentice haven't built
+01:06:10.440 anything with this yet but if you guys
+01:06:12.160 want to see something with that card let
+01:06:13.440 me know this pack we
+01:06:18.079 got I wish I had this last week when I
+01:06:21.160 brought this to locals but that is
+01:06:23.559 pretty cool that is pretty cool all
+01:06:25.400 right anyways I don't think we can pull
+01:06:26.599 anything else oh never mind that was
+01:06:28.000 just three crazy packs in a row okay
+01:06:30.520 okay this is a pretty good Locos pretty
+01:06:32.760 good Locos experience oh okay well I
+01:06:35.680 don't think those are worth much but a
+01:06:37.400 second secret can't say no to
+01:06:39.799 that wow that almost was like a full box
+01:06:42.400 honestly this is better than a full box
+01:06:43.720 I think I got like 16 packs I don't know
+01:06:45.799 how many packs I won I guess I can count
+01:06:47.400 how many supers I got 1 two three four 5
+01:06:50.240 6 7 8 9 10 11 12 13 14 15 16 17 uh 16
+01:06:55.839 packs one for entry and then one of
+01:06:57.480 these for entry but yeah that was that
+01:06:59.279 was pretty good for H for just over half
+01:07:00.920 a box got this got this this and
+01:07:07.720 this yeah pretty good can't see none of
+01:07:10.319 that let's go we were victorious with
+01:07:12.760 Ashen 40 which means we are first place
+01:07:16.160 at today's local tournament uh had a
+01:07:18.720 tough opponent Assad who came with me to
+01:07:21.039 locals tonights and uh Snake Eyes is a
+01:07:22.680 pretty hard deck to beat but weird game
+01:07:24.839 nothing best hands on on either of our
+01:07:25.960 behalfs uh both strong kind of awkward
+01:07:28.520 but that's what happens when both our
+01:07:30.039 next are loaded with a ton of hand traps
+01:07:33.480 and um yeah Ashen is the deck that got
+01:07:35.480 me my first locals win in probably half
+01:07:37.039 a decade that's crazy to think
+01:07:40.839 about anyways yes I'll see you guys back
+01:07:43.440 at home and we'll go over the tournament
+01:07:46.279 experience all right and that's it we
+01:07:48.680 ended up going 40 at locals with Ashen
+01:07:51.880 you were victorious first place and
+01:07:54.119 super excited about that I had been able
+01:07:55.880 to get first of locals in a while cuz
+01:07:58.559 the last two I played with the Yugi deck
+01:08:01.279 and with Rines deck both ended X1 so so
+01:08:04.760 far in the channel this is our first
+01:08:06.079 Flawless locals Victory now this deck
+01:08:08.200 was super cool while it wasn't anything
+01:08:10.640 absolutely brilliant I did have a lot of
+01:08:12.680 fun playing it it wasn't half bad and
+01:08:14.839 despite a lot of the support seeming
+01:08:16.920 rather random it's not like TSA there
+01:08:20.080 were clear intentions here and there is
+01:08:22.359 a game plan that is quite cool it is not
+01:08:25.799 the most powerful thing in the world but
+01:08:27.319 it has power behind it it can kill over
+01:08:30.040 the course of two turns effectively and
+01:08:31.799 kill in one super easily like a lot of
+01:08:33.319 decks can but over two turns it can uh
+01:08:35.839 it can set up a constant flow resources
+01:08:37.679 pretty well and can also do a decent bit
+01:08:39.520 of interruption as well as doing all
+01:08:41.479 these things in a unique method that a
+01:08:43.399 lot of other decks don't do which has a
+01:08:45.960 lot of Merit but what I really love
+01:08:47.719 about Ashen is the way you play this
+01:08:50.198 deck is very forward thinking you have
+01:08:53.319 to be constantly be thinking about
+01:08:54.839 clocking your opponent like you would in
+01:08:56.600 a traditional older slower Style game
+01:08:59.520 where you want to kill them over two
+01:09:00.479 turns making sure your flow of resources
+01:09:02.479 stays intact and it's not weak to your
+01:09:04.399 opponent's disruption but also providing
+01:09:06.679 a way to stop your opponent like I said
+01:09:08.920 in the beginning it's all these things
+01:09:10.040 to be careful of and this critical
+01:09:12.359 thinking skill that's required that
+01:09:14.600 makes Ashen a really cool deck it
+01:09:17.198 doesn't play out like a lot of other
+01:09:19.839 modern Yu-Gi-Oh decks so if you find
+01:09:21.560 yourself liking the speed of Yu-Gi-Oh
+01:09:23.600 want it a bit slower and a little more
+01:09:26.279 alike with some other more traditional
+01:09:28.399 Tempo based card games that nig's kind
+01:09:30.279 of evolved past this is that middle
+01:09:32.759 ground for now that means we Clos the
+01:09:34.839 book on Ashen I think it's a success and
+01:09:37.679 while this may not be the tier one
+01:09:39.399 threat that something like burning Abyss
+01:09:40.719 was this Falls in line with a TCG
+01:09:43.080 archetype that is playable has a unique
+01:09:45.479 play style it's competitively viable at
+01:09:48.839 regionals or at local levels and
+01:09:50.640 stretching it at a ycs level but it has
+01:09:52.880 a comprehensive game plan and it's not
+01:09:55.840 bad at it so until we get more support
+01:09:58.640 whether it be an ocg exclusive in the
+01:10:00.400 future that eventually comes here this
+01:10:02.120 deck is probably done for now I'd put it
+01:10:04.480 on par with decks like plunger Patrol
+01:10:07.040 which given the right format can be
+01:10:09.199 quite powerful and does have its
+01:10:10.600 strengths albe it not by itself this
+01:10:14.080 Mena overbearing threat if you want to
+01:10:16.320 see more videos like this and keep
+01:10:17.960 analyzing the tcd exclusives I'm happy
+01:10:20.120 to do it with the future ones to come
+01:10:21.840 out and keep exploring how well they
+01:10:23.960 play if you like the local vlog as well
+01:10:25.840 then just let me know all the feedback
+01:10:27.159 is appreciated because I want to do what
+01:10:29.320 you guys want to see and any other deck
+01:10:31.840 recommendations or or concept videos to
+01:10:34.000 talk about just let me know down below
+01:10:36.719 other than that I will see you all next
+01:10:38.360 time peace

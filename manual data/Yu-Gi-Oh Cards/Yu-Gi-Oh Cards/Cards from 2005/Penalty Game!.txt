@@ -1,0 +1,4 @@
+Penalty Game!
+When your opponent has 4 cards in their hand: Activate 1 of these effects.
+●Your opponent cannot draw during their next Draw Phase.
+●Your opponent cannot activate Spell/Trap Cards this turn.

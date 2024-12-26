@@ -1,0 +1,2 @@
+D.D. Designator
+Declare 1 card name. Look at your opponent's hand, and if they have the declared card in their hand, remove from play that 1 card. If they do not have the declared card in their hand, remove from play 1 random card in your hand.

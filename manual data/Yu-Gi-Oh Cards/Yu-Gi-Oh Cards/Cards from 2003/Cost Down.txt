@@ -1,0 +1,2 @@
+Cost Down
+Discard 1 card; for the rest of this turn, reduce the Levels of all monsters in your hand by 2 (even after they are Summoned).

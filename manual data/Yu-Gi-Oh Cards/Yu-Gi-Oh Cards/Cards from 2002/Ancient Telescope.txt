@@ -1,0 +1,2 @@
+Ancient Telescope
+See the top 5 cards of your opponent's Deck. Return the cards to the Deck in the same order.

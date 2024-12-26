@@ -1,0 +1,2 @@
+Fighting Spirit
+The equipped monster gains 300 ATK for each monster your opponent controls. If it would be destroyed by battle, you can destroy this card instead.

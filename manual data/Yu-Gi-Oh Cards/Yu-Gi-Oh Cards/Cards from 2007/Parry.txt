@@ -1,0 +1,2 @@
+Parry
+Return 1 "Gladiator Beast" card from your hand to the Deck, and negate the activation and effect of a Trap Card, and destroy it.

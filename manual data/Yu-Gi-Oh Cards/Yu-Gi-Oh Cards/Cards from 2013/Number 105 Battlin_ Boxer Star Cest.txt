@@ -1,0 +1,3 @@
+Number 105: Battlin' Boxer Star Cestus
+3 Level 4 monsters
+Once per Chain, during the Battle Step, if your "Battlin' Boxer" monster battles an opponent's monster (Quick Effect): You can detach 1 material from this card; negate the effects of that opponent's monster while it is face-up until the end of this turn, that monster you control cannot be destroyed by that battle, also your opponent takes any battle damage you would have taken from that battle.

@@ -1,0 +1,2 @@
+A Feint Plan
+Monsters cannot attack face-down monsters this turn.

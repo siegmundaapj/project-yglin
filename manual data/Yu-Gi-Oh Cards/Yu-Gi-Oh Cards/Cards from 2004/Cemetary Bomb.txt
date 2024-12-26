@@ -1,0 +1,2 @@
+Cemetary Bomb
+Inflict 100 damage to your opponent for each card in their Graveyard.

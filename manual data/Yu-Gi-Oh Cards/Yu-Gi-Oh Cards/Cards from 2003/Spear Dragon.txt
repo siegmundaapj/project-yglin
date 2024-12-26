@@ -1,0 +1,2 @@
+Spear Dragon
+If this card attacks a Defense Position monster, inflict piercing battle damage. If this card attacks, it is changed to Defense Position at the end of the Damage Step.

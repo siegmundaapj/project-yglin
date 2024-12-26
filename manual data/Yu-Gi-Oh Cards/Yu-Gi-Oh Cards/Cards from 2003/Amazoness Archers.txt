@@ -1,0 +1,2 @@
+Amazoness Archers
+When an opponent's monster declares an attack, while you control an "Amazoness" monster: Change all monsters your opponent currently controls to face-up Attack Position (Flip effects are not activated), they lose 500 ATK, also they must attack this turn, if able.

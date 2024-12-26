@@ -1,0 +1,3 @@
+Digvorzhak, King of Heavy Industry
+3 Level 5 monsters
+Once per turn: You can detach 1 material from this card; send the top 3 cards of your opponent's Deck to the GY, then, if any monsters were sent to the GY by this effect, destroy cards your opponent controls, up to the number of monsters sent.

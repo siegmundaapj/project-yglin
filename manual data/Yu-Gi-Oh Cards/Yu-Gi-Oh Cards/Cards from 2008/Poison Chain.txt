@@ -1,0 +1,2 @@
+Poison Chain
+During the End Phase of your turn, if you did not attack, you can make your opponent send cards equal to the number of face-up "Iron Chain" monsters you control from the top of their Deck to the Graveyard.

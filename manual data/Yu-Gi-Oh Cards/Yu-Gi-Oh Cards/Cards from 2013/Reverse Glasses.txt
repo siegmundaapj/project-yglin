@@ -1,0 +1,2 @@
+Reverse Glasses
+Halve the ATK of all face-up monsters currently on the field, until the End Phase.

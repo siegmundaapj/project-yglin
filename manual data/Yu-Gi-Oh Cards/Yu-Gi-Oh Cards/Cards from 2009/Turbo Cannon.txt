@@ -1,0 +1,3 @@
+Turbo Cannon
+"Turbo Rocket" + 1 or more non-Tuner monsters
+Once per turn, you can destroy 1 face-up monster on the field and inflict damage to its controller equal to half of its ATK.

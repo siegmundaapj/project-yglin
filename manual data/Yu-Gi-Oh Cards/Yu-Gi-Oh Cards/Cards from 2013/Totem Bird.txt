@@ -1,0 +1,3 @@
+Totem Bird
+2 Level 3 WIND monsters
+When a Spell/Trap Card is activated (Quick Effect): You can detach 2 materials from this card; negate the activation, and if you do, destroy it. This card loses 300 ATK while it has no materials.

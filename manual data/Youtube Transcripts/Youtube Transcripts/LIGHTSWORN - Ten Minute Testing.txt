@@ -1,0 +1,655 @@
+# tactiq.io free youtube transcript
+# LIGHTSWORN - Ten Minute Testing
+# https://www.youtube.com/watch/zx6AY5_Adxc
+
+00:00:02.919 how was local bad I dropped did you play
+00:00:06.799 Lights forn yeah my meals weren't very
+00:00:11.679 good hey how was locals bad I dropped
+00:00:16.000 did you play Lights horn yeah my meals
+00:00:19.320 weren't very
+00:00:22.199 good hey how was locals bad I dropped
+00:00:27.080 did you play lightsworn yeah me guess
+00:00:30.720 your Mills were
+00:00:32.119 bad no the deck's bad
+00:00:35.000 [Music]
+00:00:40.120 now good afternoon Jen enthusiasts I'm
+00:00:43.039 MBT and this is 10-minute testing these
+00:00:45.800 days decks all look alike start with
+00:00:48.039 anywhere between 12 and 21 hand traps
+00:00:50.440 throw in as little engine as possible
+00:00:52.600 and hope you draw the right combination
+00:00:54.480 every time you march your ass to locals
+00:00:56.920 well I for one am sick of it back in my
+00:00:59.719 day decks played all gas no defensive
+00:01:03.160 cards and we liked it my day is 2016 in
+00:01:06.439 case you were wondering anyway today we
+00:01:08.240 have the Last of a Dying Breed fittingly
+00:01:10.320 represented by a series of cards that
+00:01:12.119 don't stay dead for long presenting
+00:01:14.360 light sworn put your Fai in the
+00:01:18.920 light so here's the list which topped
+00:01:21.240 the recent Chilean wcq as always I'll
+00:01:23.720 give you a background about the
+00:01:24.600 archetype a little bit of a discussion
+00:01:26.200 about what I hope the deck can do and of
+00:01:27.880 course the card by card but first this
+00:01:30.280 video is sponsored by Yu-Gi-Oh Pro deck
+00:01:32.399 I've been chilling Yu-Gi-Oh Pro deck for
+00:01:34.479 well years at this point and I'm happy
+00:01:36.600 to announce I have no intention of
+00:01:38.159 stopping anytime soon by now they've
+00:01:39.799 become the most complete repository of
+00:01:41.399 tournament Tops on the internet the best
+00:01:43.079 place to jam Prague with friends and of
+00:01:44.920 course still host strategy articles
+00:01:47.240 recently they've added a new piece of
+00:01:48.719 infrastructure to the fold a three card
+00:01:50.600 Arena draft draftable with card pools
+00:01:52.640 featuring classic formats Master duel or
+00:01:54.799 within any parameters you like give it
+00:01:56.880 or any of their other features a look at
+00:01:58.920 www. YG o p r o d c k.com with that
+00:02:04.880 let's look at lightsworn lightsworn is a
+00:02:07.159 series of light monsters I could have
+00:02:08.720 sworn was unplayable these Edison
+00:02:11.239 Allstars demand you Mill yourself now
+00:02:14.000 getting you free summons off of wolf and
+00:02:15.640 FIS for powerful plays this deck felt
+00:02:18.120 unbeatable in 2010 provided you made a
+00:02:20.400 packed with some sort of top deck wizard
+00:02:22.840 but it was on and off relevant pretty
+00:02:24.239 much since release until about 2017 when
+00:02:27.000 the manura build that famously cost an
+00:02:28.760 arm a leg and the top 20 cards of your
+00:02:30.920 deck was finally powercrept with new
+00:02:33.200 releases however and the fact that
+00:02:34.760 Milling has only gotten better in the
+00:02:36.160 wake of tier liament release it's very
+00:02:38.000 possible this deck has what it takes to
+00:02:39.519 be a Power Player unfortunately this
+00:02:42.400 deck suffers from the same problem many
+00:02:44.440 strategies postp have been faced with
+00:02:46.840 Yu-Gi-Oh just isn't about all gas 40,000
+00:02:49.879 negate combos anymore it's about
+00:02:51.680 streamlining your deck to get the most
+00:02:53.200 out of a one card combo and hoping to
+00:02:55.200 draw it alongside three pieces of
+00:02:56.680 non-engine disruption and one card like
+00:02:58.720 called by that ensures your plays are
+00:03:00.280 going to resolve ironically as cards
+00:03:02.400 have gotten better combos have gotten
+00:03:04.159 less explosive and more resilient and
+00:03:06.920 Decks that just go balls to the wall
+00:03:08.480 have been left in the Dust We Are coping
+00:03:10.560 regardless and playing these cards
+00:03:12.080 alongside some natural fits like tier
+00:03:13.599 liament and Horus but make no mistake
+00:03:15.560 the non-light sworn portion of this deck
+00:03:17.480 is malleable you can consider lellan and
+00:03:19.959 the Bisal boys the Thunder Dragons if
+00:03:22.080 you want to feel power crept in a couple
+00:03:23.440 of different directions or chaos Dragon
+00:03:25.519 good stuff if your name is Trula so with
+00:03:27.519 that let's get into the card by card
+00:03:29.040 first up the lights and we'll begin with
+00:03:30.519 the newest one little JD lightsworn
+00:03:32.920 dragonling if you have a lightsworn
+00:03:34.400 monster in your graveyard this can be
+00:03:35.519 specialed from your hand and if special
+00:03:37.040 summoned you can send a lightsworn card
+00:03:38.319 from your deck to your graveyard except
+00:03:39.599 for itself if this card is sent to the
+00:03:41.239 graveyard you can add a dragon monster
+00:03:42.920 with 3,000 attack and 2600 defense from
+00:03:44.879 your deck to your hand and I know you're
+00:03:46.439 all thinking of judgment Dragon but we
+00:03:48.159 actually playing punishment this card
+00:03:50.000 can't be normal Summoner set and has to
+00:03:51.239 be special summoned by possessing four
+00:03:52.680 or more banished light sworns with
+00:03:55.079 different names and then once per turn
+00:03:56.560 you can pay 1,000 life points to shuffle
+00:03:58.000 into the decks all cards in the gra
+00:03:59.879 yards and all face up banished cards
+00:04:01.760 unlike JD this is a quick then once per
+00:04:04.120 turn if a lightsworn monsters effect is
+00:04:05.480 activated you can send the top four
+00:04:07.120 cards of your deck to the graveyard next
+00:04:09.079 up we've got Weiss and am I crazy this
+00:04:11.120 is just snow this is snow right snow
+00:04:13.720 from Dark World can someone more well
+00:04:16.079 versed in the lore than me explain is
+00:04:18.560 this snow changing sides or snow as a
+00:04:21.759 secret double agent operating the dark
+00:04:24.080 world's dealings while pretending to be
+00:04:26.120 a light sworn anyway this card allows
+00:04:27.840 you to place a lightsworn card from your
+00:04:29.000 hand on top of your deck to special
+00:04:30.160 summon this from your hand then Mill to
+00:04:31.840 and if this card is sent from your deck
+00:04:33.240 to the graveyard you can Target a
+00:04:34.280 lightsworn in your graveyard and special
+00:04:35.960 summon it hey fun fact the card you put
+00:04:38.199 on top of your deck can be one of these
+00:04:39.560 suckers wolf lightsworn beast used to be
+00:04:41.759 the worst thing you could possibly find
+00:04:43.080 in your hand now it's not so bad if
+00:04:45.560 normal Summoner set then you lose the
+00:04:47.639 game immediately because a judge is
+00:04:48.919 walking over to your table it must be
+00:04:50.600 special summoned by a card Effect if
+00:04:52.039 this card is sent from your deck to the
+00:04:53.199 graveyard you can special summon it just
+00:04:54.800 like its partner in crime Feliz light
+00:04:56.360 sworn Archer which has to be summoned by
+00:04:58.080 a card Effect and if sent from your deck
+00:04:59.479 to the graveyard by monster effect
+00:05:00.720 special summons and can be tributed to
+00:05:02.400 Target a monster your PO controls
+00:05:03.600 destroy it then send the top three cards
+00:05:05.320 of your deck to the graveyard let's get
+00:05:06.960 into the tier limits we're playing three
+00:05:08.320 of the ones we can play three of three
+00:05:10.440 tier liament cash tier which during the
+00:05:11.759 main phase allowes you to special this
+00:05:12.919 card from your hand and if you do banish
+00:05:14.039 a cash tier or tier liament from your
+00:05:15.240 hand or graveyard and if normal or
+00:05:16.680 special summoned can bin three from
+00:05:18.199 either player's deck if sent to the
+00:05:19.560 graveyard by card Effect can bin an
+00:05:21.120 additional two this is being played
+00:05:23.039 alongside the one the only tier liament
+00:05:24.440 Rhino heart which if normal or special
+00:05:25.759 summoned can send a tier liament monster
+00:05:27.280 from your deck to the graveyard except
+00:05:28.319 for Rhino heart and if sent to the
+00:05:29.319 graveyard by card Effect can special
+00:05:30.680 summon this uh card but banish it when
+00:05:32.600 it leaves the field and send a tier
+00:05:33.759 limit card from your hand to the
+00:05:35.199 graveyard we're playing one a piece of
+00:05:36.759 shyon Havis and merly may they rest in
+00:05:39.479 peace and then one a piece of the
+00:05:40.720 shufflers mudora and kello where's aido
+00:05:43.600 well they got them after that we've got
+00:05:45.759 two copies of beast king of the swamps a
+00:05:47.919 card I can't believe we're unironically
+00:05:49.520 playing it's a four it's an aqua it's a
+00:05:52.160 fusion substitute what more do you want
+00:05:54.199 finally we are playing hores and a
+00:05:55.720 minimal number of them at that three
+00:05:57.080 copies of MTI alongside three King
+00:05:58.680 sarcophagus and one copy of happy happy
+00:06:01.759 happy now we're also playing some really
+00:06:03.479 powerful spells Charge of the Light
+00:06:04.960 Brigade is still good in the year of Our
+00:06:06.759 Lord 2024 send the top three cards of
+00:06:09.240 your deck to the graveyard and then add
+00:06:10.360 a light sworn from your deck to your
+00:06:11.520 hand after that we've got three copies
+00:06:12.960 of primeval Planet pelino two copies of
+00:06:15.599 tier lament scream two copies of tier
+00:06:17.280 lament celc and one copy of light sworn
+00:06:19.440 IUS Target face up cards your opponent
+00:06:21.319 controls up to the number of light
+00:06:22.280 sworns you control negate their effects
+00:06:23.960 until the end of the turn that's cards
+00:06:25.360 not monsters and if this card is sent
+00:06:27.039 from the deck to the graveyard it can be
+00:06:28.720 set it's a fun layered piece of an end
+00:06:31.120 board in the extra we have one of the
+00:06:32.800 very few mechanisms by which you will
+00:06:34.280 get anything approaching in a gate
+00:06:35.800 grapha we've got tman kidart and rulos
+00:06:38.280 we've got dragas stello we've got mud
+00:06:39.960 dragon of the swamp which trust me
+00:06:41.800 you're going to be going into a lot more
+00:06:43.400 than you would expect in a deck that
+00:06:44.840 doesn't have a lot of access to good
+00:06:46.199 tier liament fusions we've got manura
+00:06:48.280 the Athenian lightsworn I didn't think
+00:06:51.120 she was Athenian lightsworn monsters you
+00:06:53.160 control can't be banished by card
+00:06:54.319 effects you can only use each of the
+00:06:55.360 following effects once per turn if this
+00:06:56.800 is Synchro summoned you can send light
+00:06:58.000 sworns with different types from your
+00:06:59.000 deck to the Grave up to the number of
+00:07:00.280 lightsworns used as this card's material
+00:07:02.479 and you can banish up to four
+00:07:03.360 lightsworns from your graveyard send
+00:07:04.479 them many cards from the top of your
+00:07:05.759 deck to the graveyard wow can you think
+00:07:07.560 of someone who would want exactly four
+00:07:09.840 light sworns banished after that we've
+00:07:11.800 got visas amatara this is of course an
+00:07:14.360 eight star Synchro monster that becomes
+00:07:16.319 VSA star Frost while on the field and
+00:07:18.400 can if Synchro summoned at a spell trap
+00:07:20.120 that mentions VSA star Frost from your
+00:07:21.680 deck to your hand here primeval planet
+00:07:23.400 pelina after that we've got some uh xiz
+00:07:26.240 monsters zombie vampire is really really
+00:07:28.520 easy to make with the horoscope cards
+00:07:30.039 Time Thief redoer manura the exalted
+00:07:31.840 lightword is here once again but thank
+00:07:34.000 God she's not still a prize card abyss
+00:07:36.000 dweller and then appalossa sp sp little
+00:07:38.039 Knight sprin and cross sheep in the side
+00:07:40.560 we've got three copies of D barrier
+00:07:41.759 three copies of evenly one copy of
+00:07:43.039 heartbeat two Cosmic Cyclone two mindon
+00:07:45.520 three triple tactics talents and one
+00:07:47.159 change of heart we're really really
+00:07:49.120 changing control of monsters so with
+00:07:51.080 that let's jump into the games our first
+00:07:52.800 match is up against Draco Slayer
+00:07:54.440 melodious pendulums neat idea
+00:07:56.960 unfortunately I know all too well the
+00:07:58.639 Ching Austin and pendulum slop doesn't
+00:08:01.039 resolve the outstanding issues we're
+00:08:02.919 going first and this is an interesting
+00:08:04.720 hand you can't really tell if it's good
+00:08:05.879 or bad until you get Millan so let's get
+00:08:07.479 Millan we're going to go for King Sark
+00:08:08.840 to pitch this beast king in order to
+00:08:10.080 send happy we'll summon happy and MTI
+00:08:12.000 and let's start with the zombie vampire
+00:08:13.599 we're going to Mill four and wow I mean
+00:08:15.120 that is about as good as it gets but
+00:08:16.919 also there aren't really bad Mills in
+00:08:18.479 this deck we'll grab a cc to hand and
+00:08:20.120 then we'll use the effect of our
+00:08:21.800 lightsworn Dragon to get felis and wolf
+00:08:23.879 on our side of the field for a minurva
+00:08:25.319 for two we'll send Weiss and another
+00:08:27.319 wolf allowing us to summon both wolf and
+00:08:29.080 FIS once again and immediately we run
+00:08:31.000 into a problem we are running out of
+00:08:32.799 zones we're going to fire off this
+00:08:34.159 manura we do hit IAS here which is nice
+00:08:36.440 and then we're going to go into cross
+00:08:37.799 sheep into manura into Mill a whole ton
+00:08:40.399 of cards including some tier liament we
+00:08:42.559 make a graffa early then summon back a
+00:08:44.360 shyon with the effect of the cross sheep
+00:08:45.920 summoning the tier liman's cash as well
+00:08:48.000 from here we'll Mill three and hit some
+00:08:49.399 mandatories we can't resolve then we'll
+00:08:51.000 go into SP little Knight banish a card
+00:08:52.399 from our opponent's deck normal summon
+00:08:53.839 that Weiss and end on a Time Thief redo
+00:08:55.600 and an IUS our opponent will start their
+00:08:57.600 turn by drawing another pendulum monster
+00:08:59.399 surprising into atinado well there's
+00:09:01.040 just no way in hell we're letting that
+00:09:02.320 resolve so we will go graffa into celic
+00:09:04.640 add a tier liament castia they're going
+00:09:06.600 to go for the Dragon Shrine here into
+00:09:08.200 the Supreme King Dragon Dark worm in
+00:09:09.720 order to grab gate zero then set Majesty
+00:09:11.880 Pegasus into ignis from here we're going
+00:09:13.600 to go Time Thief redo and because guess
+00:09:15.160 what our shyon was sent to the graveyard
+00:09:17.200 by a card Effect we can make rukos
+00:09:18.760 they're going to go for Majesty Pegasus
+00:09:20.160 and then trigger the effect of the ignis
+00:09:21.560 Phoenix and face up extra but we'll just
+00:09:22.920 go ahead and rukos that sending it to
+00:09:24.360 the graveyard then rosing back itself
+00:09:26.519 our opponent's going to go for dinostar
+00:09:27.959 power at which point we can flip up I in
+00:09:29.920 order to prevent the resolution of that
+00:09:31.560 effect when the gate both scales they're
+00:09:33.000 going to go ahead and normal summon at
+00:09:33.959 ignis Phoenix we will summon this tier
+00:09:35.279 limit cash tier on open game State
+00:09:37.120 because I think I have a pretty good
+00:09:38.440 idea what's happening next we'll Mill a
+00:09:40.040 whole bunch of cards hit some
+00:09:40.880 mandatories we can't resolve and down
+00:09:42.200 comes yep beyond the pendulum we'll
+00:09:44.000 negate that with a celic in order to
+00:09:45.560 prevent them from getting more gas from
+00:09:47.279 here they will pendulum summon One Two
+00:09:49.399 Three Monsters still pretty impressive
+00:09:51.160 into to exceed the Pendulum In order to
+00:09:52.880 grab back that dark worm they're going
+00:09:54.200 to go for diner power and I guess it's
+00:09:56.160 probably time to little Knight we will
+00:09:57.680 Target the exceed the pendulum and then
+00:09:59.399 will chain the effect of the mudora as
+00:10:00.720 they chain the effect of exceed the
+00:10:01.959 pendulum from here they're going to
+00:10:03.320 summon this ignis Phoenix from hand and
+00:10:04.959 then afterwards they can make an SP of
+00:10:06.240 their own banishing our copy of rulos
+00:10:08.200 unfortunately that means we are getting
+00:10:09.399 another turn so they might as well
+00:10:10.680 concede because that Horus is going to
+00:10:12.200 kill them so that's how the deck
+00:10:13.279 performs on the play but what does it do
+00:10:14.959 on the draw well our opponent for game
+00:10:16.720 two is on gate Guardian okay don't laugh
+00:10:19.279 don't laugh I beat the hell out of Nova
+00:10:21.000 with this deck uh they're going first
+00:10:22.800 let's see what they can accomplish it
+00:10:23.959 turns out the answer is a lot they're
+00:10:25.560 going to lead with copy of foolish
+00:10:26.640 burial in order to send a copy of the
+00:10:28.959 one they don't have access to they're
+00:10:30.560 going to go heavy tank into kyen into
+00:10:32.519 wall shadow into suen into wind and
+00:10:34.519 water into burial from a different
+00:10:36.720 dimension so they can make combined
+00:10:38.639 that's something right all right we're
+00:10:40.120 going to draw for turn we're going to
+00:10:41.160 begin with a copy of Charge of the Light
+00:10:42.360 Brigade which they let resolve all right
+00:10:44.079 I will take it we'll go for dragonling
+00:10:45.800 next and then afterwards we're going to
+00:10:46.800 activate the effect of the Dragon Ling
+00:10:47.800 in order to bin a felis we will summon
+00:10:49.399 that felis and then go into a manura
+00:10:51.160 we'll trigger the effect of the manura
+00:10:52.360 and the dragon ling let's get a
+00:10:53.639 punishment Dragon to our hand and Mill a
+00:10:55.639 couple we will summon out a couple of
+00:10:57.440 monsters here the felis and the Wolf and
+00:10:59.519 then afterwards we'll go into a visas
+00:11:00.959 amatara that's going to grab us a
+00:11:02.680 primeval planet pelino to our hand we'll
+00:11:04.360 go scream into manura in order to Mill a
+00:11:06.800 ton of cards including two tier laments
+00:11:08.600 we're going to go ahead and resolve the
+00:11:09.880 effects of those going into a grapha
+00:11:11.360 super early followed by a scream then
+00:11:13.120 normal sub a copy of tier laments Rhino
+00:11:15.040 heart sending a havice here we can
+00:11:17.120 summon a copy of kidart trigger the
+00:11:18.680 effect targeting the gate Guardians
+00:11:19.959 combined they will of course respond to
+00:11:21.639 which we will respond with grapha to
+00:11:23.120 change the effect afterwards we will go
+00:11:24.880 for the field spell they'll negate the
+00:11:26.200 search we'll go for punishment dragon
+00:11:27.600 and Shuffle everything from the
+00:11:28.800 graveyard back into the deck at which
+00:11:30.480 point we will trigger the effect of the
+00:11:31.600 Primeval Planet as well uh they're going
+00:11:33.240 to negate that so we can just go to
+00:11:34.720 combat this should be it we will walk
+00:11:36.399 over this copy of the labyrinth tank and
+00:11:38.320 their last remaining Fusion Monster
+00:11:39.720 before getting in for well over lethal
+00:11:41.760 so it's time for game three and you know
+00:11:43.160 what that means a best of three versus
+00:11:44.839 meta our opponent's on what else but
+00:11:46.839 snake eye and our hand is well again I I
+00:11:50.079 do not know if the hand is good or bad
+00:11:52.160 till I watch inside the top of the deck
+00:11:54.399 okay our opponent is going first and
+00:11:56.079 unfortunately one of the downsides to
+00:11:57.360 playing a deck with no main deck
+00:11:58.480 non-engine is game one your opponent
+00:12:00.079 just gets to style all over you so
+00:12:01.800 Behold The Styling they're going to go
+00:12:03.240 for dellar into Ash into Ash effect for
+00:12:05.920 popler popler effect sumon pop pop
+00:12:08.079 effect they're going to go ahead and
+00:12:09.320 grab the field spell we'll go to the
+00:12:10.959 Divine Temple setting an oak then we'll
+00:12:12.320 activate Ash sending the oak for a flamb
+00:12:14.680 Burge we're going to go for the IP
+00:12:16.000 mascarena into flamb Burge summoning
+00:12:17.720 back the Oak and the ash then the oak
+00:12:19.519 effect bringing back the popler as well
+00:12:21.519 from here they're could go into a Prime
+00:12:23.480 Evil princess into the Snake Eyes flame
+00:12:25.839 Bridge Dragon set the IP mascarena into
+00:12:27.639 raging into zantis do OSS here we're
+00:12:30.120 going to grab a ponic at which point
+00:12:31.839 they overlay for assembled this is so
+00:12:33.800 cute I think they think we're playing
+00:12:35.600 tenpai um but surely you would have seen
+00:12:39.240 a head Trap by now maybe they assume
+00:12:40.959 we're on like 10 pi but we just didn't
+00:12:42.600 draw anything but our board Breakers
+00:12:44.800 that's really funny uh anyway we're
+00:12:46.279 going to lead sheer and they're going to
+00:12:47.279 go SP little Knight here and Trigger the
+00:12:48.839 effect of the flamb Burge in sequence
+00:12:50.519 here just drowning Us in Advantage they
+00:12:52.360 will go Ash in order to grab Ash we got
+00:12:54.320 some good Mills but for all the good
+00:12:55.920 it's going to do us we'll go merly into
+00:12:57.399 an imperm at which point we can just
+00:12:59.240 fire off this tier cash and they will SP
+00:13:00.880 little Knight banishing the merly which
+00:13:02.639 forces us to banish the Rhino heart from
+00:13:04.480 hand let's Mill a couple of cards and
+00:13:06.120 those are some good ones uh scream plus
+00:13:08.240 of course the wolf uh afterwards they
+00:13:10.600 will activate the effect of the princess
+00:13:12.240 and yeah okay no reason to play past
+00:13:14.120 that so it's time for game two and Jesus
+00:13:16.680 this hand is going to test our ability
+00:13:18.160 to play through pieces of interaction
+00:13:20.399 thankfully it doesn't look like they
+00:13:21.320 have too much for the MTI which we will
+00:13:22.880 fire first and foremost getting
+00:13:24.199 ourselves a king sarc let's go for the
+00:13:25.800 king Sark and then activate the effect
+00:13:27.040 pitching the mudora this comes out to be
+00:13:28.760 a really good idea because it contests
+00:13:30.760 The Dru worm opponent's going to ghost M
+00:13:32.800 and moonlet chill our zombie vampire we
+00:13:34.360 will go for the Weiss sending a felis
+00:13:36.000 and a wolf we will summon both of those
+00:13:37.720 suckers and then afterwards we will go
+00:13:39.519 into manura activating her effect in
+00:13:41.120 order to bin two more we'll go Weiss
+00:13:43.000 again for the lightsworn dragonling and
+00:13:44.720 get copy of punishment to hand at which
+00:13:46.560 point we will summon the lightsworn
+00:13:47.720 dragonling and send a wolf we'll trigger
+00:13:49.320 wolf in order to summon it and then go
+00:13:51.120 into a visas Amit trara that's going to
+00:13:53.079 go ahead and grab us a primeval planet
+00:13:54.839 and we will take the mner damage for an
+00:13:56.440 SP little Knight we'll go manura here
+00:13:57.920 for four Milling four including a rhino
+00:13:59.880 heart and a scream and a felis in order
+00:14:01.959 to grab a cic and the Rhino heart
+00:14:03.759 pitching the cic and the felis and the
+00:14:05.320 Rhino heart and the cic got these chains
+00:14:07.759 into a haves we will send a shyon and
+00:14:09.920 down Comes The Dru worm not a moment too
+00:14:12.120 soon all right we'll let that resolve
+00:14:13.440 we'll go for the pelino next and then
+00:14:14.839 afterwards we can go to a copy of sprin
+00:14:17.120 sending merly thankfully still legal in
+00:14:19.480 this format we'll Shuffle back a couple
+00:14:20.920 of cards for graa trigger pel to eat The
+00:14:23.199 Dru worm and then of course activate the
+00:14:24.959 effect of the grapa in order to change
+00:14:26.680 the effect to discard card into the
+00:14:28.279 haves here we can go into a mud dragon
+00:14:30.120 which enables us to go to redo and
+00:14:31.519 recycle that SP little Knight into a
+00:14:33.240 tier liit cash tier in order to bin
+00:14:34.959 three more before going into the SP
+00:14:36.519 again and ending on punishment dragon as
+00:14:38.560 well in standby we will take the top
+00:14:40.120 card of our opponent's deck and they're
+00:14:41.519 going to lead with a diabel star we will
+00:14:43.199 Sprint here in order to bounce that back
+00:14:44.720 to the hand I really like this play it
+00:14:46.000 just means that they have to commit more
+00:14:47.519 before they're even able to leverage the
+00:14:49.000 OSS uh they're going to go for the snake
+00:14:50.680 ey Ash we'll just go for graffa here in
+00:14:52.160 order to change the effect and oh wow
+00:14:53.639 it's Sak who could have guessed into the
+00:14:55.240 Hess once again they do get for the OSS
+00:14:57.040 here they go oak but this puts them in a
+00:14:58.839 really weird situation because as long
+00:15:00.639 as we punishment Dragon they actually
+00:15:02.160 don't get to resolve this effect uh they
+00:15:03.839 don't really have too much left to do
+00:15:05.120 and we can Pina their last monster this
+00:15:06.759 triple attack is going to have to do a
+00:15:07.880 lot draw two is into a sinful spoils but
+00:15:11.360 that's still not enough so it's time for
+00:15:13.560 that all important game three and oh my
+00:15:15.560 God my kingdom for an impermanence am I
+00:15:17.519 right okay our opponent's going to begin
+00:15:19.160 with copy of wanted they will go for the
+00:15:20.920 Dell star pitching the second Dell star
+00:15:23.399 with a third Dell star in hand boy have
+00:15:25.120 I been there they're going to go for
+00:15:26.440 snash then they're going to get popler
+00:15:28.240 then they're going to summon popler
+00:15:29.440 they'll activate the effect of popler
+00:15:30.759 they'll get the Divine Temple Divine
+00:15:32.440 Temple for Oak yada yada yada you know
+00:15:34.800 we've all been here they're going to go
+00:15:36.000 wanted first and oh my God an ash off
+00:15:38.000 the top well they can do a lot worse
+00:15:39.600 than standard snake eye combo plus three
+00:15:41.720 pieces of non-engine in hand uh let's
+00:15:43.480 just go oak here bring back this copy of
+00:15:45.040 popler and then afterwards we can just
+00:15:46.360 go into Promethean into promethian go
+00:15:48.639 ahead and bring back the flamberge flam
+00:15:49.959 Burge set the IP mascarena into an amow
+00:15:52.160 whale what is this 2024 but a couple of
+00:15:54.279 months earlier they're going to go for
+00:15:55.560 Snake Eyes flamb Bridge as early as
+00:15:56.920 possible playing around the triple
+00:15:58.000 tactics but I mean you're never are
+00:15:59.079 going to not activate a monster effect
+00:16:01.600 they're going to Ash the first charge
+00:16:02.839 but jokes on them I hit a wolf and I
+00:16:04.160 have a second one we'll go for the
+00:16:05.319 Triple tactics to take that copy of
+00:16:06.600 mascara and then fire off SP little
+00:16:08.240 Knight they will ghost mner but we can
+00:16:09.880 just dodge that with little Knight right
+00:16:11.680 let's go ahead and remove that amble
+00:16:12.959 whale from the board as well let's go
+00:16:14.000 for The Charge of the Light Brigade and
+00:16:15.440 then we will go for the effect of the
+00:16:16.360 lightsworn dragonling summoning itself
+00:16:18.040 we'll go for the effect in order to send
+00:16:19.440 a felis summon the felis then afterwards
+00:16:21.759 they will go for Promethean princess
+00:16:23.639 this is kind of a heads up play uh it
+00:16:25.399 gets them a lot of material because of
+00:16:26.839 course as we normal the kello they will
+00:16:28.279 be able to activate the field spell to
+00:16:29.639 summon Oak into Ash into another popler
+00:16:32.440 uh trying to saave off I guess some sort
+00:16:34.399 of otk push but they already know we
+00:16:36.079 can't kill them because we activated the
+00:16:37.480 effect of SP little Knight and now they
+00:16:39.240 have done a very strange thing in
+00:16:40.519 summoning Promethean princess and that
+00:16:41.959 is cut themselves off of Nibiru this is
+00:16:44.040 just sort of a thing that all snake ey
+00:16:45.800 players have to contend with at some
+00:16:47.440 point and that is that they have one
+00:16:49.240 card that kind of wipes the board but
+00:16:51.120 also contests with their ability to stay
+00:16:52.959 in it uh we're going to push the
+00:16:54.319 advantage while we have it we're going
+00:16:55.440 to go for haves here M off of a tier
+00:16:57.440 cach into kidoh heart kid heart's going
+00:16:59.480 to spin back this copy of promethian
+00:17:00.880 Princess we can trigger the effect of
+00:17:02.079 the pelino in order to pop the field
+00:17:03.759 spell and we'll go ahead and get a shyon
+00:17:05.400 for our trouble as well we'll go shyon
+00:17:06.959 here Mill a couple into a merly not bad
+00:17:09.760 we'll put back the MTI for a mud dragon
+00:17:11.480 which gives us redoer unfortunately
+00:17:13.520 because I shuffled back the promethian
+00:17:15.199 we're now vulnerable to Nibiru which is
+00:17:16.880 frustrating but hardly the end of the
+00:17:18.520 world because at this point we have way
+00:17:19.919 more than enough to rebuild the board
+00:17:21.359 we'll go to dragas stapelia into a rhino
+00:17:23.240 heart and our opponent will concede so
+00:17:25.400 we're back with the deck and while it
+00:17:27.000 won it sure did struggle getting there
+00:17:30.000 let's do the pros and cons first the
+00:17:32.039 pros one the new lightsworn cards really
+00:17:35.120 just do what they did before but better
+00:17:36.960 they maill cards they make rank fours
+00:17:38.480 and Synchro eights the light sworn
+00:17:40.200 engine also allows you to maill over
+00:17:41.520 eight cards and make two level eight
+00:17:42.760 synchros including Vsauce which searches
+00:17:44.679 your way a teer liament and engine
+00:17:46.160 pieces and as a bonus Milling IUS also
+00:17:48.480 lets you negate things like evenly and
+00:17:50.000 Dark Ruler that's neat for a build- a
+00:17:51.799 board deck to Weiss this allows you to
+00:17:54.840 shuffle back wolf and felis so they're
+00:17:56.360 not entirely dead in hand each time
+00:17:57.880 which had minimum feel feels good and
+00:18:00.039 three the tier liament cards still do
+00:18:02.120 their magic and give you access to much
+00:18:03.720 more Interruption on the opponent's turn
+00:18:05.440 than if you were playing pure and the
+00:18:08.039 cons one the light sworns are a great
+00:18:11.400 Mill engine and they do build a board
+00:18:13.600 themselves but none of them can be used
+00:18:15.240 for fusions with the tier liament cards
+00:18:17.200 so you can easily end up in sticky
+00:18:18.799 situations with your teer Mills two
+00:18:21.159 Nibiru is a pain in the ass for the deck
+00:18:23.679 because this strategy relies on SP kidoh
+00:18:25.919 heart and grapa specifically to push
+00:18:27.840 through or negate it
+00:18:29.280 uh if you don't have these set up in
+00:18:30.520 time your lightsworn setups can often
+00:18:31.960 just get interrupted by an early Nibiru
+00:18:33.919 and leave you on a huge resource drain
+00:18:37.000 and three people are still regrettably
+00:18:39.679 siding Bisal they're absolutely
+00:18:41.880 devastating to the tar liament engine
+00:18:43.679 since there's only three names and you
+00:18:45.400 only get one a piece overall the new
+00:18:47.400 light sorns do what you were doing
+00:18:49.520 before but turbocharged I mean Synchro
+00:18:51.760 manura is a powerful enough card to
+00:18:53.320 justify an engine in any graveyard
+00:18:55.320 Centric deck the problem is just that
+00:18:57.320 those decks aren't ready for the light
+00:18:59.240 of day maybe if design philosophy
+00:19:01.320 changes these can blossom but otherwise
+00:19:03.440 it might be time to put this deck where
+00:19:04.760 it wants to be in the graveyard so
+00:19:07.720 that's that thanks so much for watching
+00:19:09.640 these 10-minute testings are
+00:19:11.240 functionally subsidized by and
+00:19:13.240 occasionally suggested by my patreons
+00:19:16.679 I'm going to go ahead and read out some
+00:19:17.919 of the higher tier patreons now without
+00:19:20.039 whom these videos would not be possible
+00:19:22.200 huge thanks to Elena Tincher Alex Pera
+00:19:25.400 Allison Elliot Ally Brett Henry caner
+00:19:28.679 seaweed dark master orc derp and dragon
+00:19:31.280 Devon Senpai DJ elephante Gravity John
+00:19:34.480 pet Juan crua vasati KN Mary legal
+00:19:37.799 rights lockstone Luis Hernandez Matthew
+00:19:40.799 M dzo MBT play mlce soon Mike carlotti
+00:19:44.679 n54 lionhart nebula Yu-Gi-Oh project
+00:19:47.600 Mercury Rose Lapine Troy says Byer is
+00:19:50.400 gay Vincent storm who's Nick
+00:19:52.480 wonderwaffle your pot of greed does what
+00:19:54.640 and Yuki couldn't have done it without
+00:19:56.320 you
+00:20:01.280 [Music]

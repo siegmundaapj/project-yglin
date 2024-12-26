@@ -1,0 +1,3 @@
+Harpie Lady 2
+(This card's name is always treated as "Harpie Lady".)
+Negate the effects of Flip monsters this card destroys by battle.

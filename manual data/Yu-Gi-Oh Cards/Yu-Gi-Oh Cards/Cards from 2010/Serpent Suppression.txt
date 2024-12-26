@@ -1,0 +1,2 @@
+Serpent Suppression
+Face-up Attack Position monsters with 0 ATK your opponent controls cannot be destroyed by battle with "Reptilianne" monsters.

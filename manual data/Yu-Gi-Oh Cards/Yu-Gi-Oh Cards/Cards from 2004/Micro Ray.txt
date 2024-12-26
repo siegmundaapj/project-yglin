@@ -1,0 +1,2 @@
+Micro Ray
+Target 1 face-up monster on the field; that target's DEF becomes 0 until the end of this turn.

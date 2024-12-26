@@ -1,0 +1,3 @@
+Shadow Tamer
+(This card is always treated as an "Archfiend" card.)
+FLIP: Target 1 Fiend-Type monster your opponent controls; take control of that target until the End Phase.

@@ -1,0 +1,3 @@
+Performapal Barracuda
+Once per turn, if your "Performapal" monster battles an opponent's monster, before damage calculation: You can make that opponent's monster lose ATK equal to the difference between its original ATK and current ATK (even if this card leaves thDuring either player's turn: You can target 1 "Performapal" monster whose current ATK is different from its original ATK; it gains ATK equal to the difference until the end of this turn. You can only use this effect of "Performapal Barracuda" once per turn.
+

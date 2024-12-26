@@ -1,0 +1,4 @@
+Arcana Force I - The Magician
+If this card is Summoned: Toss a coin.
+●Heads: If a Spell Card is activated, this card's ATK becomes double its original ATK until the end of that turn.
+●Tails: If a Spell Card is activated, your opponent gains 500 LP.

@@ -1,0 +1,568 @@
+# tactiq.io free youtube transcript
+# ASHENED - Ten Minute Testing
+# https://www.youtube.com/watch/mY4T2qVxwt0
+
+00:00:00.160 yes that's right it's me Mr Konami I'm
+00:00:02.679 calling to let you know that I've had a
+00:00:04.240 change of heart yes like the Yu-Gi-Oh
+00:00:06.879 card no I yes it's very funny anyway I
+00:00:11.040 think it's high time that TCG had their
+00:00:13.120 day in the sun I want the best card in
+00:00:16.119 the next set to be
+00:00:18.520 Ash end Ashen
+00:00:22.519 oh probably wasn't a great idea to use
+00:00:25.119 the same internet that was running the
+00:00:26.400 dual link servers well I'm sure he got
+00:00:29.000 it
+00:00:30.960 [Music]
+00:00:35.800 good afternoon Jen enthusiasts I'm MBT
+00:00:38.320 and this is 10-minute testing once again
+00:00:40.640 my unimaginative patrons demand exactly
+00:00:42.920 what you'd expect one of the worst
+00:00:44.800 archetypes in the set currently
+00:00:46.559 sequestered behind a one minute overview
+00:00:49.239 well here we are and here's Ashen so
+00:00:52.600 let's get blasting presenting Ashen the
+00:00:55.800 loome D eer so here's the list as always
+00:00:59.480 I'll give you background about the
+00:01:00.480 archetype a little bit of a discussion
+00:01:02.000 about what I hope the deck can do and of
+00:01:03.680 course the card by card but first this
+00:01:06.000 video is sponsored by Yu-Gi-Oh Pro deck
+00:01:08.119 I've been chilling Yu-Gi-Oh Pro deck for
+00:01:10.240 well years at this point and I'm happy
+00:01:12.320 to announce I have no intention of
+00:01:13.880 stopping anytime soon by now they've
+00:01:15.520 become the most complete repository of
+00:01:17.119 tournament Tops on the internet the best
+00:01:18.799 place to jam Prague with friends and of
+00:01:20.640 course still host strategy articles
+00:01:22.960 recently they've added a new piece of
+00:01:24.439 infrastructure to the fold a three card
+00:01:26.320 Arena draft draftable with card pools
+00:01:28.360 featuring classic formats m Master D or
+00:01:30.560 within any parameters you like give it
+00:01:32.600 or any of their other features a look at
+00:01:34.880 www. YG p r o
+00:01:38.759 deck.com so with that let's assess Ashen
+00:01:42.439 Ashen is the newest tcg exclusive
+00:01:44.719 archetype first revealed in Phantom
+00:01:46.399 Nightmare and For The First Time in
+00:01:48.159 Forever things looked promising the
+00:01:51.280 first wave was a powerful albeit small
+00:01:54.040 resource Loop which could easily find
+00:01:56.159 every piece of its engine the stage was
+00:01:58.240 set all they needed was a pale off and
+00:02:00.360 when is Konami ever left a tcg exclusive
+00:02:03.280 deck wanting after a promising but
+00:02:05.280 insufficient first wave of support well
+00:02:08.119 what we all feared came to pass in lead
+00:02:10.440 we got the new stuff and it's nowhere
+00:02:12.879 near good enough there are big bosses
+00:02:15.280 for the boys but they're nowhere near
+00:02:17.000 the strength or scale of the monster
+00:02:18.680 they need to be to compete in the modern
+00:02:20.720 meta but that doesn't mean we need to
+00:02:22.319 sit and wait for the volcano to destroy
+00:02:24.000 us by supplementing the Ashen with a
+00:02:25.879 synergistic castia engine and playing
+00:02:28.080 into its strengths of modifying the type
+00:02:30.080 of your opponent's monsters on your turn
+00:02:31.879 we can slap together a deck with going
+00:02:33.440 first and second capacity either by
+00:02:35.400 leaving Vos on field as a potential
+00:02:37.200 nuclear weapon going first or chewing
+00:02:39.239 through board states with super
+00:02:40.519 polymerization and cash tias when going
+00:02:42.440 second it's not as explosive as vvus but
+00:02:45.000 you just might be able to take your
+00:02:46.360 opponent down with you so with that
+00:02:47.959 let's get into the card by card we're
+00:02:49.480 going to begin with the flagship monster
+00:02:51.080 of this archetype Vos the eruption
+00:02:52.720 Dragon of Extinction during the main
+00:02:54.360 phase if this card is in your hand quick
+00:02:55.480 effect you can Target a card in the
+00:02:56.440 field Zone summon this card to your
+00:02:57.800 opponent's field and if you do destroy
+00:02:59.280 the card in the field field Zone then
+00:03:00.360 you can add to your hand or set an ashen
+00:03:02.000 continuous trap from your deck if this
+00:03:03.840 is sent from your opponent's field to
+00:03:04.920 the graveyard you can destroy all
+00:03:06.480 monsters on the field now there are a
+00:03:08.440 number of decks in this format think San
+00:03:10.840 summoning for tenpai or Fire King Island
+00:03:13.519 for snake ey Fire King that absolutely
+00:03:15.480 need their field spell to remain on the
+00:03:17.080 field to continue to be able to play the
+00:03:18.640 game but if you're playing against a
+00:03:20.280 deck that doesn't have one don't worry
+00:03:21.799 we can always just pop our own the field
+00:03:23.599 spell that makes the deck tick is obsid
+00:03:25.480 the Ashen City face up special summon to
+00:03:27.400 monsters your opponent controls become
+00:03:28.599 pyro during your turn only so
+00:03:31.000 unfortunately it doesn't have that weird
+00:03:32.480 Zombie World effect where you
+00:03:33.840 automatically win all your flu ones
+00:03:35.400 games uh but you still prevent them from
+00:03:37.280 going off on your turn so that's
+00:03:38.760 something you can only use each of the
+00:03:40.040 following effects of obsid once per turn
+00:03:41.439 during your end phase you can Target an
+00:03:42.480 obsid in your graveyard put it on the
+00:03:43.760 bottom of your deck then draw a card and
+00:03:45.080 if this card in The Field's zone is
+00:03:46.560 destroyed or banished you can special
+00:03:47.720 summon an ashen from your deck it's
+00:03:49.519 going to be destroyed a lot over the
+00:03:50.920 course of a turn uh thankfully that
+00:03:52.799 shuffle effect ensures that you'll be
+00:03:54.079 able to have followup because you
+00:03:55.599 sometimes do go through three of these
+00:03:57.239 let's get into the individual Ashen
+00:03:58.680 monsters we are playing one a piece of
+00:04:00.599 some of them but three of Priestess of
+00:04:02.480 the Ashen City so all these cards have
+00:04:04.840 this shared effect if obsid the Ashen
+00:04:06.959 city is in your field Zone you can
+00:04:08.120 special summon this card from your hand
+00:04:09.480 and you can only special summon the
+00:04:10.560 named monster once per turn this way
+00:04:12.599 then each one has a different effect
+00:04:13.959 priestesses is on normal or special
+00:04:15.480 summoned you can add a Ashen card from
+00:04:16.918 your deck to your hand except herself uh
+00:04:19.000 King is that you can special summon an
+00:04:21.199 ashen monster from your hand except for
+00:04:22.840 king or if your opponent controls a
+00:04:24.000 monster with 2800 or more attack hint
+00:04:25.960 hint then you can summon it from your
+00:04:27.520 deck instead we've of course got hero of
+00:04:29.400 the ash city which during the main phase
+00:04:31.080 allows you to Target a pyro monster on
+00:04:32.320 the field destroy it and if you
+00:04:33.199 destroyed Vos then you can place an
+00:04:34.919 obsid from your deck face up in your
+00:04:36.720 field spell Zone and then we've got some
+00:04:38.639 new ones spearhead of the Ashen city
+00:04:40.560 which if your opponent controls a
+00:04:41.440 monster with 2800 or more attack can be
+00:04:43.240 tributed to Target a card your opponent
+00:04:44.400 controls and return it to the hand and
+00:04:46.720 Shaman of the Ashen city which can
+00:04:48.759 Target three of your pyro monsters that
+00:04:49.960 are banished dur in your graveyard
+00:04:50.919 shuffle them into the deck and then if
+00:04:52.000 you shuffled an ashen monster add an
+00:04:54.520 obsid from your deck to your hand after
+00:04:56.840 that we have three Casher fener and a
+00:04:58.919 cash tier RIS how now where this deck
+00:05:01.160 shines is its spell cards which you'll
+00:05:03.120 probably realize when I read to you the
+00:05:04.560 text on extinguishing the Ashen send one
+00:05:07.199 dark pyro monster from your deck to the
+00:05:08.600 graveyard then you can add a level five
+00:05:09.880 or higher pyro monster from your
+00:05:11.080 graveyard to your hand for the rest of
+00:05:12.440 the turn after the card resolves you
+00:05:13.520 can't special summon it from the extra
+00:05:14.720 deck except for pyros you can banish
+00:05:16.199 this card from your graveyard diffusion
+00:05:17.320 summon a pyro Fusion Monster from your
+00:05:18.639 extra deck using monsters from your hand
+00:05:20.360 or field as material those are hard ones
+00:05:23.319 now you probably understand what I'm
+00:05:24.759 talking about when I say this is so very
+00:05:26.600 close I mean they have a Roa SL foolish
+00:05:29.240 SL polymerization all on one card uh
+00:05:32.240 next up we've got three copies of
+00:05:33.360 Awakening of Vos put an obsid from your
+00:05:35.720 deck face up in either field Zone then
+00:05:37.240 if your opponent controls a card in the
+00:05:38.199 field Zone you can add a level five or
+00:05:39.319 higher dark Pyro from your deck to your
+00:05:40.520 hand and for the rest of the turn after
+00:05:41.800 this resolves you can special summon
+00:05:43.080 from the deck or extra deck except for
+00:05:45.000 pyros after that we've of course got the
+00:05:46.919 obsid but we're also playing a wraith so
+00:05:48.600 which is also a fun Target for set
+00:05:50.039 rotation and terraforming of course can
+00:05:51.960 get us where we need to get now all
+00:05:53.240 these monsters are pyros they're not
+00:05:54.560 fire uh but they can be searched off of
+00:05:56.919 bonfire so we are going to play three of
+00:05:58.759 those as well uh we have two trap cards
+00:06:01.440 first is Ashen to endlessness which
+00:06:03.880 during the main phase allows you to
+00:06:04.880 Fusion summon a pyro Fusion Monster
+00:06:06.240 using monsters from either field as
+00:06:07.840 material including a Vos the eruption
+00:06:10.039 Dragon of Extinction and if you do it
+00:06:11.759 gains 500 for each material used and it
+00:06:13.680 can be Banished with a dark pyro monster
+00:06:15.599 from your graveyard to turn all monsters
+00:06:16.840 your opponent currently controls pyro
+00:06:18.880 until the end of the turn after that we
+00:06:20.759 have Awakening of Ashen for eternity
+00:06:23.479 when this card is activated you can add
+00:06:24.720 a Vos or an ashen from your graveyard to
+00:06:26.360 your hand you can Target a face a
+00:06:27.199 monster your opponent controls take
+00:06:28.120 control of it then make all face up
+00:06:29.840 monsters your opponent currently
+00:06:31.240 controls lose attack equal to the
+00:06:32.680 targeted Monster's original attack
+00:06:34.440 sounds good right it's basically snatch
+00:06:36.360 teal oh well I've emitted a really
+00:06:38.599 important piece of text here the
+00:06:40.560 targeted monster has to be one that you
+00:06:43.280 own so it really just gets back Vos
+00:06:45.800 regardless the attack change lasts till
+00:06:47.080 the end of the turn and it is a hard
+00:06:48.520 once after that we've got three copies
+00:06:50.240 of Ash Blossom Joy spring three super
+00:06:51.919 polymerization this one feels a little
+00:06:53.759 weird um obsid only switches your
+00:06:56.080 opponent's monsters to pyros on your
+00:06:58.000 turn which means you can't really use it
+00:06:59.280 to interrupt them but actually sometimes
+00:07:01.520 you can because if you get the Ashen for
+00:07:03.720 uh endlessness to uh get into the
+00:07:05.639 graveyard then you can swap all their
+00:07:07.039 monsters to pyro and just eat it that
+00:07:08.599 way and also there's a deck in the
+00:07:09.840 format that just plays a whole bunch of
+00:07:11.199 pyro monsters that you can eat the board
+00:07:12.879 and also super p is just generally a
+00:07:14.840 good card so you know your mileage may
+00:07:17.360 vary and of course you've got three
+00:07:18.560 infinite impermanence after that let's
+00:07:19.759 go to the extra we've got two copies of
+00:07:21.360 Vos the dragon of endless darkness and O
+00:07:24.280 that card image looks like it comports
+00:07:26.280 to the name this is a Vos the eruption
+00:07:28.280 Dragon of Extinction and two plus level
+00:07:29.919 N9 or lower pyrros can't be destroyed by
+00:07:31.479 card effects can be targeted by monster
+00:07:33.160 effects if Fusion summon destroy all
+00:07:34.560 spell traps your opponent controls when
+00:07:35.840 your opponent activates a card Effect on
+00:07:37.000 the field you can send a face up Ashen
+00:07:38.199 you control to the graveyard to destroy
+00:07:39.560 that card this is a very powerful card
+00:07:42.000 but just not powerful enough it is a
+00:07:45.479 back row board wipe that's neat it uh is
+00:07:48.479 really hard to get off the field that's
+00:07:50.479 good and it sort of interacts with your
+00:07:52.599 opponent but in the most frustrating way
+00:07:54.440 possible um but at the end of the day it
+00:07:56.319 can be destroyed by battle and doesn't
+00:07:58.199 do anything outside of its weird
+00:08:00.159 blockable effect so not exactly the boss
+00:08:03.599 they were looking for Embers of the
+00:08:05.400 Ashen can be made with any two pyros and
+00:08:07.159 a fusion summoned you can h a field
+00:08:08.440 spell in your graveyard added to your
+00:08:09.560 hand then at the start of the damage
+00:08:10.919 death if it battles an opponent's pyro
+00:08:12.479 monster you can destroy that monster and
+00:08:13.800 if it's your turn this card can make a
+00:08:15.479 second attack in the row we've got some
+00:08:17.879 generic super poly targets gura and mud
+00:08:19.879 dragon we've got Typhon and actually
+00:08:21.759 infernal flame Banshee is really easy to
+00:08:23.479 make in this deck um importantly it can
+00:08:25.479 get you to whatever pieces of the Ashen
+00:08:27.560 City you're missing and then we've got
+00:08:29.599 blow whale access code talker uh
+00:08:31.360 princess dark SP little Knight pit night
+00:08:33.559 early and IP mascarena in the side we've
+00:08:35.320 just got some generic non-engine options
+00:08:37.279 dimensional barrier evenly matched
+00:08:38.640 Cosmic cycl draw and lockb bird and airu
+00:08:40.519 the Primal being so with that let's jump
+00:08:42.080 into the games our first match is up
+00:08:43.760 against different dimension demons and
+00:08:45.399 you can see that we've opened a couple
+00:08:46.399 of pieces of non-engine and also a
+00:08:48.200 linear combo so this should go pretty
+00:08:50.160 well this is basically the general game
+00:08:52.279 plan of the deck our opponent combos for
+00:08:53.839 a little bit they get to Gilgamesh
+00:08:55.000 that's an easy imperm target and at this
+00:08:57.000 point we're just kind of hoping that it
+00:08:58.160 ends their turn they will scale zero lap
+00:09:00.240 place and this Abyss Ragnarok which
+00:09:01.760 permits them to perform a pendulum
+00:09:03.079 summon of the Griffin and the cernus and
+00:09:04.720 overlay for a wave King Caesar into
+00:09:06.399 another Gilgamesh that's going to
+00:09:07.720 trigger the Ragnarok and the Caesar
+00:09:09.200 which is going to get them back the
+00:09:10.200 Griffin take a thousand here and grab
+00:09:12.200 themselves a dark contract with the
+00:09:13.720 swamp King as well we will ash this
+00:09:15.560 Griffin which forces them to go for the
+00:09:16.920 necr linee play here going for a gangus
+00:09:18.800 before making machinex he'll use the
+00:09:20.680 effect of the gangas to bring back this
+00:09:21.880 Caesar and then overlay for a kingtel
+00:09:23.720 activate the effect of the king tail and
+00:09:25.160 then at point of resolution fire off
+00:09:26.760 this dark contract with the swamp King
+00:09:28.079 in order to make themselves a copy of
+00:09:29.399 genas this will trigger the effect of
+00:09:30.680 the Marksman kingtel in order to send
+00:09:32.079 the field spell and at this point they
+00:09:33.640 can just overlay for a copy of wave High
+00:09:35.200 King Caesar and pass this is a pretty
+00:09:36.839 respectable board especially through two
+00:09:38.440 hand traps we're going to begin with
+00:09:39.600 obsid and guess what now they're pyros
+00:09:41.279 we're going to take their entire field
+00:09:42.399 from them and make Embers of the Ash and
+00:09:44.120 they do get to trigger the effect of
+00:09:45.760 their monster in the graveyard but we
+00:09:46.920 get to trigger bonfire which is a little
+00:09:48.360 better we'll go for Priestess here we're
+00:09:49.640 going to activate the effect of the
+00:09:50.480 Priestess for oh extinguishing the Ash
+00:09:52.880 and what a powerful card we'll go for
+00:09:54.880 Vos afterwards targeting our field spell
+00:09:57.240 and then what do you know we can set
+00:09:58.600 that continuous track and Trigger the
+00:09:59.880 obsede in order to summon a king from
+00:10:02.040 here we can activate the effect of the
+00:10:03.040 king in order to summon a hero of the
+00:10:04.839 Ashen City and go to the battle phase
+00:10:06.360 walking over the Vos and sending it to
+00:10:08.120 the graveyard allowing us to attack
+00:10:09.320 again getting in for well over lethal
+00:10:11.720 not surprising that that's what the deck
+00:10:13.000 does on the draw considering it likes to
+00:10:14.440 go second to so much but how does it
+00:10:16.560 perform on the play for game two we're
+00:10:18.440 up against atinado tenpai that's really
+00:10:21.000 fun I wonder what the melodious cards
+00:10:22.399 add to that probably the same as
+00:10:23.760 everything else we're going to begin
+00:10:24.920 with the copy of Awakening which is
+00:10:25.959 going to give our opponent an OB cadem
+00:10:27.480 then we will set this copy of vados and
+00:10:29.320 and Ash to endlessness we'll trigger the
+00:10:30.959 effect of the obsid in graveyard for a
+00:10:32.240 priestess we'll activate the effect of
+00:10:33.320 the Priestess and then we'll set another
+00:10:34.760 obsid afterwards we're going to special
+00:10:36.120 summon this King and activate the effect
+00:10:37.279 of the king in order to summon a hero
+00:10:39.200 next we will special summon this copy of
+00:10:40.480 spearhead and go into infernal flame
+00:10:42.079 Banshee which gets from deck to hand
+00:10:44.160 another copy of Vitos we will set one
+00:10:45.600 card Trigg the effect of the obsid at
+00:10:46.920 endstep and pass back to our opponent
+00:10:49.079 they draw another atinado also offline
+00:10:51.079 now that we have given them a monster
+00:10:52.440 one of the many upsides to this strategy
+00:10:54.320 San summoning gets fired here and then
+00:10:56.519 at point of resolution they're going to
+00:10:57.519 normal summon a chundra we will go for
+00:10:59.120 the endlessness here we'll activate the
+00:11:00.519 effect and then make ourselves a copy of
+00:11:02.120 AOS the dragon of endless darkness which
+00:11:04.880 makes quick work of the S and summoning
+00:11:06.800 they will imp permit which is
+00:11:07.839 frustrating then go to the battle phase
+00:11:09.079 and fire off kiman afterwards we to go
+00:11:10.800 for a fodra they will activate the
+00:11:12.160 effect of the fodra targeting the copy
+00:11:14.000 of chundra at which point we can just
+00:11:15.440 super polymerization these two away and
+00:11:17.000 our opponent will scoop so it's time for
+00:11:18.800 game three and you know what that means
+00:11:20.279 a best of three versus meta our
+00:11:22.040 opponent's playing what else but snake
+00:11:24.040 eye we are going first and the sand is
+00:11:26.680 all right we're going to go for fenri
+00:11:28.279 here that's going to grab from De to
+00:11:29.399 hand a rise heart will fire off the
+00:11:30.519 bonfire into an ash Blossom shoot okay
+00:11:33.600 well I guess we can normal summon this
+00:11:34.760 Shaman special the rise heart and then
+00:11:36.399 overlay for an infernal flame Banshee
+00:11:38.360 into a ghost mner this format man we'll
+00:11:41.639 pass back to our opponent they're going
+00:11:42.720 to begin with a copy of the field spell
+00:11:44.279 Divine Temple of the Snake Eyes is going
+00:11:45.399 to set a snake eyes deell star which
+00:11:46.680 they will send for an OSS they'll
+00:11:48.320 trigger the effect of the ash adding a
+00:11:49.519 popler to hand then special the popler
+00:11:51.079 out of the hand at which point we will
+00:11:52.800 just go ahead and fire with the fen reer
+00:11:54.079 banishing this ash face down next
+00:11:55.680 they're going to go into an anema
+00:11:56.680 triggering the effect of the popler in
+00:11:57.880 order to scale back the dellar than
+00:11:59.600 activating theel star in order to put
+00:12:01.079 that Ash blossom in the back row in main
+00:12:03.519 phase two they're going to go for SP
+00:12:04.600 little Knight and eat our infernal flame
+00:12:06.200 Banshee any other better deck would be
+00:12:08.120 able to deal with this but we just can't
+00:12:10.320 okay let's begin with uh Fen reer let's
+00:12:11.880 go to the battle phase we get to walk
+00:12:12.880 over the little Knight which is nice
+00:12:14.240 we'll activate Fen re's effect in order
+00:12:15.480 to grab the third fenry then will normal
+00:12:16.800 summon a copy of Priestess they're going
+00:12:18.079 to go to Vine Temple of the snake ey
+00:12:19.320 here in order to summon out the ash
+00:12:20.440 Blossom and effect veiler to prevent the
+00:12:21.880 Priestess from resolving that's
+00:12:23.199 frustrating afterwards we're going to go
+00:12:24.680 Fen rear to banish this copy of Ash
+00:12:25.959 Blossom face down but the top of their
+00:12:27.320 deck is way better than ours there's n
+00:12:29.440 Dell star they're going to go cash tier
+00:12:31.000 birth and then normal summon the Dell
+00:12:32.360 star getting over this copy of fener
+00:12:34.240 then activating the effect of OSS in
+00:12:36.000 order to cycle back uh they will go
+00:12:37.720 ahead and activate the popler that they
+00:12:39.079 add to hand and then afterwards they're
+00:12:40.480 going to go for the effect of the he
+00:12:42.720 that they summon wow our whole deck is
+00:12:44.600 fire huh that rise heart is going to
+00:12:46.880 trigger here that's funny then they'll
+00:12:48.600 use Casher birth to bring back the fen
+00:12:50.160 rear wait wait whoa whoa whoa whoa who's
+00:12:51.480 the cash tier deck here they're going to
+00:12:52.800 Overlay for a draco sack activate the
+00:12:54.279 effect of the Draco sack to get
+00:12:55.399 themselves two tokens and then
+00:12:56.839 afterwards they can activate snake ID of
+00:12:58.199 Bellar in order to reset at that popler
+00:12:59.959 they're going to go dra aack in order to
+00:13:01.680 eat our Priestess then they're going to
+00:13:02.920 go into Seline trigger the effect of the
+00:13:04.440 Seline and then activate the effect of
+00:13:06.040 the Seline 4 three in order to bring
+00:13:07.519 back the DL star that DL star is now
+00:13:09.120 going to trigger we're going to get a
+00:13:10.639 wanted seeker of sinful spoils into dark
+00:13:12.720 bring back this copy of Priestess and
+00:13:14.639 then make a copy of promethian princess
+00:13:16.320 just going through the motions here
+00:13:17.639 princess into heita into uh raging
+00:13:20.120 Phoenix into zantis bring everything
+00:13:22.320 back this a terrible Mecha Fantom Beast
+00:13:24.360 dra aack and pass turn we draw we do
+00:13:26.600 have Fen reer access which is something
+00:13:28.560 uh but as they go go for the princess we
+00:13:30.120 just scoop him up so it's time for game
+00:13:31.839 two and we're just in such a bad
+00:13:33.279 position here like obviously we want to
+00:13:35.279 go second but we really can't afford to
+00:13:37.000 against a deck as robust as our
+00:13:38.399 opponents uh we are going to lead with
+00:13:40.000 this copy of Priestess of the Ashen City
+00:13:41.720 they are going to veiler and we're going
+00:13:43.120 to chain The Awakening of Vos to that uh
+00:13:45.519 we'll go for the effect of the Vitos in
+00:13:47.399 hand here to pop the obsid and we'll set
+00:13:49.399 a copy of endlessness triggering the
+00:13:50.839 effect of the obsid in order to grab a
+00:13:52.440 king uh we're going to set our own
+00:13:53.959 aladim and then we're going to special
+00:13:55.199 summon a spearhead we will get ourselves
+00:13:56.920 back the Vitos and then we'll activate
+00:13:58.519 bonfire in order to go ahead and grab
+00:13:59.959 another Priestess we'll pass back to our
+00:14:01.639 opponent then activate obsid they will
+00:14:03.160 ghost ogit oh God that's disastrous uh
+00:14:06.880 they're just going to go ahead and set
+00:14:08.320 wraith so which is great news for us
+00:14:09.839 because that gives us a reason to go for
+00:14:11.600 Vos uh we will set this copy of Ashen
+00:14:13.560 for eternity at point of resolution they
+00:14:15.079 will normal snake ey Ash in order to
+00:14:16.519 grab popler they're going to activate
+00:14:17.880 the effect of the popler summoning it
+00:14:19.240 and then afterwards it will trigger the
+00:14:20.320 effect of the popler in order to grab
+00:14:21.680 their other field spell we will go Ashen
+00:14:23.880 to endlessness here to send everything
+00:14:25.240 to the graveyard for this copy of Vos uh
+00:14:27.480 but unfortunately Divine Temple into a
+00:14:29.320 copy of snake ice flamb bridge is good
+00:14:30.880 enough if DIA bellstar is the last
+00:14:32.440 unknown we'll scoop them up as she comes
+00:14:34.600 down so we're back with the deck and
+00:14:36.680 yeah that kind of went down in flames
+00:14:38.360 let's do the pros and cons first the
+00:14:40.399 pros one the new support flushes out the
+00:14:42.759 deck to a point where it actually has a
+00:14:44.320 goal it adds the new recycling support
+00:14:45.959 in Shaman and Embers a new end boss and
+00:14:47.600 Interruption with a new tra at Super
+00:14:48.920 Poes it's nice two Vos is great
+00:14:52.560 especially if you're shutting out your
+00:14:53.519 opponent's field spells with Awakening
+00:14:54.800 going second completely wiping their
+00:14:55.920 field spell off or byas quick effect to
+00:14:57.720 destroy and then three the engine itself
+00:15:00.160 is pretty small it can be cut down to
+00:15:02.120 slot in other engines with Synergy like
+00:15:04.480 volcanic or melodus and the cons one the
+00:15:08.440 deck is ridiculously vulnerable to hand
+00:15:11.320 traps if Vos doesn't resolve when it can
+00:15:14.199 be ashed hands without Priestess plus
+00:15:16.199 obsid struggle to end on anything
+00:15:17.959 notable often relying on Fen reer and
+00:15:19.680 non-engine to stay alive two you need to
+00:15:22.320 be able to see multiple vosis which
+00:15:24.040 isn't too hard if your engine pieces
+00:15:25.680 resolve but without access to multiple
+00:15:27.240 vosis you kind of have to use the super
+00:15:29.360 poly trap suboptimally so they don't
+00:15:31.240 just link off Vos at a really
+00:15:32.720 inopportune moment using it as a free
+00:15:34.519 body and three board breaking into an
+00:15:37.240 otk or even a respectable board is often
+00:15:40.040 extremely hand dependent much of your
+00:15:41.839 engine is easily stopped or doesn't
+00:15:44.279 provide removal that's actually worth
+00:15:45.800 anything your non-engine helps but
+00:15:47.800 engine heavy hands struggle to play
+00:15:49.480 through established boards fairly often
+00:15:51.759 overall just like ashes this deck should
+00:15:54.519 probably be kept on a vase on the mantle
+00:15:56.000 piece uh as something to mourn until
+00:15:58.440 more Legacy support brings it up to
+00:15:59.880 speed give this one a Miss we're
+00:16:01.480 counting on you ocg so that's that
+00:16:04.240 thanks so much for watching these
+00:16:05.720 10-minute testings are functionally
+00:16:07.680 subsidized by and occasionally suggested
+00:16:10.519 by my patreons I'm going to go ahead and
+00:16:13.319 read out some of the higher tier
+00:16:14.680 patreons now without whom these videos
+00:16:16.800 would not be possible huge thanks to
+00:16:19.160 Elena Tincher Alex Pera Allison Elliot
+00:16:22.319 Alli Brett Henry caner seaweed dark
+00:16:25.399 master orc derp and dragon Devon Senpai
+00:16:28.079 DJ elepant Gravity John pet Juan Cruz
+00:16:31.480 aati night Mary legal rights lockstone
+00:16:35.079 Luis Hernandez Matthew M dzo MBT play
+00:16:38.360 mlce soon Mike carlotti n54 lionhart
+00:16:41.800 nebula Yu-Gi-Oh project Mercury Rose
+00:16:44.399 Lapine Troy says Byer is gay Vincent
+00:16:47.079 storm who's Nick wonderwaffle your pot
+00:16:49.480 of greed does what and Yuki couldn't
+00:16:51.560 have done it without you
+00:16:57.160 [Music]

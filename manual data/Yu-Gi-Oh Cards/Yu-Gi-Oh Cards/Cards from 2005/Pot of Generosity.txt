@@ -1,0 +1,2 @@
+Pot of Generosity
+Return 2 cards from your hand to your Deck. Then shuffle your Deck.

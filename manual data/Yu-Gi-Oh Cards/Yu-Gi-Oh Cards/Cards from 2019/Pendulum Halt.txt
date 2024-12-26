@@ -1,0 +1,2 @@
+Pendulum Halt
+If you have 3 or more face-up Pendulum Monsters with different names in your Extra Deck: Draw 2 cards. You cannot add cards from the Deck to your hand for the rest of this turn after this card resolves.

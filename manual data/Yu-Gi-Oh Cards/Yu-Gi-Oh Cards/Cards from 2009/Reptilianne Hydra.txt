@@ -1,0 +1,3 @@
+Reptilianne Hydra
+1 "Reptilianne" Tuner + 1+ non-Tuner monsters
+If this card is Synchro Summoned: Destroy as many monsters your opponent controls with 0 ATK as possible, and if you do, draw 1 card for each monster destroyed.

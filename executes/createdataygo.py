@@ -6,7 +6,9 @@ import csv
 
 base_url = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
 params = {
-    "misc": "yes"} #for release date info
+    "misc": "yes"
+    } #for release date info
+
 csv_file = "ygocardlist.csv"
 excel_file = "ygocardlist.xlsx"
 txt_file = "ygotextdump.txt"
@@ -38,7 +40,6 @@ def create_csv(card_data, filename=csv_file):
             attribute = card.get("attribute", "N/A"),
             release = card.get("misc_info", [{}])[0].get("tcg_date", "N/A")          
             writer.writerow([name, desc, race, type, attribute, release])
-
     print("csv file created.")       
     
 def create_excel(card_data, filename=excel_file):
@@ -64,10 +65,9 @@ def create_excel(card_data, filename=excel_file):
     base_dataframe = pd.DataFrame(card_list)
     with pd.ExcelWriter(filename, engine="openpyxl") as excel:
         base_dataframe.to_excel(excel, index=False)
-
     print("xlsx file created.")
 
-def create_txt(card_data, filename=txt_file):
+def create_txt(card_data, filename=txt_file): #just dumps all description text in a single txt file
     if "data" not in card_data:
         return
     with open(filename, "w", encoding="utf-8") as file:
@@ -76,6 +76,8 @@ def create_txt(card_data, filename=txt_file):
                 desc = card.get("desc")  
                 file.write(desc + "\n")  
     print("txt file created.")
+
+
 
 
 if __name__ == "__main__":
